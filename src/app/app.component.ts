@@ -97,7 +97,7 @@ export class AppComponent implements OnInit {
       // @ts-ignore
       this.bubbleMap.bubbles(ourBubbles, {
         popupTemplate: (geo, data) => {
-          return `<div class="hoverinfo">State: ${data.state}, Count: ${data.statePropValue}%</div>`;
+          return `<div class="hoverinfo">State: ${data.state}, Count: ${data.statePropValue}</div>`;
         }
       });
     }, 1000);
