@@ -1,0 +1,5341 @@
+{
+  "07222020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>411133</strong>",
+      "deceased": "\n\t<strong>28732</strong>\n\t",
+      "discharged": "\n\t<strong>753050</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1192915</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "53",
+      "deceased": "0",
+      "discharged": "159",
+      "state": "Andaman and Nicobar Islands",
+      "total": "212"
+    },
+    "Andhra Pradesh": {
+      "active": "32336",
+      "deceased": "758",
+      "discharged": "25574",
+      "state": "Andhra Pradesh",
+      "total": "58668"
+    },
+    "Arunachal Pradesh": {
+      "active": "552",
+      "deceased": "3",
+      "discharged": "303",
+      "state": "Arunachal Pradesh",
+      "total": "858"
+    },
+    "Assam": {
+      "active": "7291",
+      "deceased": "58",
+      "discharged": "18033",
+      "state": "Assam",
+      "total": "25382"
+    },
+    "Bihar": {
+      "active": "10220",
+      "deceased": "217",
+      "discharged": "18515",
+      "state": "Bihar",
+      "total": "28952"
+    },
+    "Chandigarh": {
+      "active": "221",
+      "deceased": "12",
+      "discharged": "518",
+      "state": "Chandigarh",
+      "total": "751"
+    },
+    "Chhattisgarh": {
+      "active": "1586",
+      "deceased": "29",
+      "discharged": "4114",
+      "state": "Chhattisgarh",
+      "total": "5729"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "240",
+      "deceased": "2",
+      "discharged": "463",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "705"
+    },
+    "Delhi": {
+      "active": "15288",
+      "deceased": "3690",
+      "discharged": "106118",
+      "state": "Delhi",
+      "total": "125096"
+    },
+    "Goa": {
+      "active": "1552",
+      "deceased": "26",
+      "discharged": "2449",
+      "state": "Goa",
+      "total": "4027"
+    },
+    "Gujarat": {
+      "active": "11760",
+      "deceased": "2196",
+      "discharged": "36423",
+      "state": "Gujarat",
+      "total": "50379"
+    },
+    "Haryana": {
+      "active": "6146",
+      "deceased": "364",
+      "discharged": "20952",
+      "state": "Haryana",
+      "total": "27462"
+    },
+    "Himachal Pradesh": {
+      "active": "576",
+      "deceased": "11",
+      "discharged": "1077",
+      "state": "Himachal Pradesh",
+      "total": "1664"
+    },
+    "Jammu and Kashmir": {
+      "active": "6540",
+      "deceased": "263",
+      "discharged": "8455",
+      "state": "Jammu and Kashmir",
+      "total": "15258"
+    },
+    "Jharkhand": {
+      "active": "3200",
+      "deceased": "55",
+      "discharged": "2904",
+      "state": "Jharkhand",
+      "total": "6159"
+    },
+    "Karnataka": {
+      "active": "44146",
+      "deceased": "1464",
+      "discharged": "25459",
+      "state": "Karnataka",
+      "total": "71069"
+    },
+    "Kerala": {
+      "active": "8060",
+      "deceased": "44",
+      "discharged": "5890",
+      "state": "Kerala",
+      "total": "13994"
+    },
+    "Ladakh": {
+      "active": "186",
+      "deceased": "2",
+      "discharged": "1010",
+      "state": "Ladakh",
+      "total": "1198"
+    },
+    "Madhya Pradesh": {
+      "active": "7082",
+      "deceased": "756",
+      "discharged": "16257",
+      "state": "Madhya Pradesh",
+      "total": "24095"
+    },
+    "Maharashtra": {
+      "active": "132538",
+      "deceased": "12276",
+      "discharged": "182217",
+      "state": "Maharashtra",
+      "total": "327031"
+    },
+    "Manipur": {
+      "active": "615",
+      "deceased": "0",
+      "discharged": "1400",
+      "state": "Manipur",
+      "total": "2015"
+    },
+    "Meghalaya": {
+      "active": "416",
+      "deceased": "4",
+      "discharged": "70",
+      "state": "Meghalaya",
+      "total": "490"
+    },
+    "Mizoram": {
+      "active": "149",
+      "deceased": "0",
+      "discharged": "168",
+      "state": "Mizoram",
+      "total": "317"
+    },
+    "Nagaland": {
+      "active": "545",
+      "deceased": "0",
+      "discharged": "485",
+      "state": "Nagaland",
+      "total": "1030"
+    },
+    "Odisha": {
+      "active": "5344",
+      "deceased": "103",
+      "discharged": "13310",
+      "state": "Odisha",
+      "total": "18757"
+    },
+    "Puducherry": {
+      "active": "831",
+      "deceased": "30",
+      "discharged": "1318",
+      "state": "Puducherry",
+      "total": "2179"
+    },
+    "Punjab": {
+      "active": "3237",
+      "deceased": "263",
+      "discharged": "7389",
+      "state": "Punjab",
+      "total": "10889"
+    },
+    "Rajasthan": {
+      "active": "8052",
+      "deceased": "577",
+      "discharged": "22744",
+      "state": "Rajasthan",
+      "total": "31373"
+    },
+    "Sikkim": {
+      "active": "222",
+      "deceased": "0",
+      "discharged": "108",
+      "state": "Sikkim",
+      "total": "330"
+    },
+    "Tamil Nadu": {
+      "active": "51347",
+      "deceased": "2626",
+      "discharged": "126670",
+      "state": "Tamil Nadu",
+      "total": "180643"
+    },
+    "Telangana": {
+      "active": "9891",
+      "deceased": "429",
+      "discharged": "37385",
+      "state": "Telangana",
+      "total": "47705"
+    },
+    "Tripura": {
+      "active": "1397",
+      "deceased": "8",
+      "discharged": "1926",
+      "state": "Tripura",
+      "total": "3331"
+    },
+    "Uttar Pradesh": {
+      "active": "20204",
+      "deceased": "1229",
+      "discharged": "31855",
+      "state": "Uttar Pradesh",
+      "total": "53288"
+    },
+    "Uttarakhand": {
+      "active": "1497",
+      "deceased": "55",
+      "discharged": "3297",
+      "state": "Uttarakhand",
+      "total": "4849"
+    },
+    "West Bengal": {
+      "active": "17813",
+      "deceased": "1182",
+      "discharged": "28035",
+      "state": "West Bengal",
+      "total": "47030"
+    }
+  },
+  "07232020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>426167</strong>",
+      "deceased": "\n\t<strong>29861</strong>\n\t",
+      "delta": {
+        "active": "NaN",
+        "deceased": "NaN",
+        "discharged": "NaN",
+        "state": "<strong><span>Total#</span></strong>",
+        "total": "NaN"
+      },
+      "discharged": "\n\t<strong>782607</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1238635</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "58",
+      "deceased": "0",
+      "delta": {
+        "active": "5",
+        "deceased": "0",
+        "discharged": "4",
+        "state": "Andaman and Nicobar Islands",
+        "total": "9"
+      },
+      "discharged": "163",
+      "state": "Andaman and Nicobar Islands",
+      "total": "221"
+    },
+    "Andhra Pradesh": {
+      "active": "31763",
+      "deceased": "823",
+      "delta": {
+        "active": "-573",
+        "deceased": "65",
+        "discharged": "6553",
+        "state": "Andhra Pradesh",
+        "total": "6045"
+      },
+      "discharged": "32127",
+      "state": "Andhra Pradesh",
+      "total": "64713"
+    },
+    "Arunachal Pradesh": {
+      "active": "632",
+      "deceased": "3",
+      "delta": {
+        "active": "80",
+        "deceased": "0",
+        "discharged": "11",
+        "state": "Arunachal Pradesh",
+        "total": "91"
+      },
+      "discharged": "314",
+      "state": "Arunachal Pradesh",
+      "total": "949"
+    },
+    "Assam": {
+      "active": "8675",
+      "deceased": "64",
+      "delta": {
+        "active": "1384",
+        "deceased": "6",
+        "discharged": "0",
+        "state": "Assam",
+        "total": "1390"
+      },
+      "discharged": "18033",
+      "state": "Assam",
+      "total": "26772"
+    },
+    "Bihar": {
+      "active": "10506",
+      "deceased": "217",
+      "delta": {
+        "active": "286",
+        "deceased": "0",
+        "discharged": "1131",
+        "state": "Bihar",
+        "total": "1417"
+      },
+      "discharged": "19646",
+      "state": "Bihar",
+      "total": "30369"
+    },
+    "Chandigarh": {
+      "active": "254",
+      "deceased": "13",
+      "delta": {
+        "active": "33",
+        "deceased": "1",
+        "discharged": "8",
+        "state": "Chandigarh",
+        "total": "42"
+      },
+      "discharged": "526",
+      "state": "Chandigarh",
+      "total": "793"
+    },
+    "Chhattisgarh": {
+      "active": "1709",
+      "deceased": "29",
+      "delta": {
+        "active": "123",
+        "deceased": "0",
+        "discharged": "116",
+        "state": "Chhattisgarh",
+        "total": "239"
+      },
+      "discharged": "4230",
+      "state": "Chhattisgarh",
+      "total": "5968"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "257",
+      "deceased": "2",
+      "delta": {
+        "active": "17",
+        "deceased": "0",
+        "discharged": "11",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "total": "28"
+      },
+      "discharged": "474",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "733"
+    },
+    "Delhi": {
+      "active": "14954",
+      "deceased": "3719",
+      "delta": {
+        "active": "-334",
+        "deceased": "29",
+        "discharged": "1532",
+        "state": "Delhi",
+        "total": "1227"
+      },
+      "discharged": "107650",
+      "state": "Delhi",
+      "total": "126323"
+    },
+    "Goa": {
+      "active": "1607",
+      "deceased": "28",
+      "delta": {
+        "active": "55",
+        "deceased": "2",
+        "discharged": "92",
+        "state": "Goa",
+        "total": "149"
+      },
+      "discharged": "2541",
+      "state": "Goa",
+      "total": "4176"
+    },
+    "Gujarat": {
+      "active": "11915",
+      "deceased": "2224",
+      "delta": {
+        "active": "155",
+        "deceased": "28",
+        "discharged": "837",
+        "state": "Gujarat",
+        "total": "1020"
+      },
+      "discharged": "37260",
+      "state": "Gujarat",
+      "total": "51399"
+    },
+    "Haryana": {
+      "active": "6117",
+      "deceased": "372",
+      "delta": {
+        "active": "-29",
+        "deceased": "8",
+        "discharged": "745",
+        "state": "Haryana",
+        "total": "724"
+      },
+      "discharged": "21697",
+      "state": "Haryana",
+      "total": "28186"
+    },
+    "Himachal Pradesh": {
+      "active": "609",
+      "deceased": "11",
+      "delta": {
+        "active": "33",
+        "deceased": "0",
+        "discharged": "28",
+        "state": "Himachal Pradesh",
+        "total": "61"
+      },
+      "discharged": "1105",
+      "state": "Himachal Pradesh",
+      "total": "1725"
+    },
+    "Jammu and Kashmir": {
+      "active": "6831",
+      "deceased": "273",
+      "delta": {
+        "active": "291",
+        "deceased": "10",
+        "discharged": "152",
+        "state": "Jammu and Kashmir",
+        "total": "453"
+      },
+      "discharged": "8607",
+      "state": "Jammu and Kashmir",
+      "total": "15711"
+    },
+    "Jharkhand": {
+      "active": "3397",
+      "deceased": "64",
+      "delta": {
+        "active": "197",
+        "deceased": "9",
+        "discharged": "120",
+        "state": "Jharkhand",
+        "total": "326"
+      },
+      "discharged": "3024",
+      "state": "Jharkhand",
+      "total": "6485"
+    },
+    "Karnataka": {
+      "active": "47075",
+      "deceased": "1519",
+      "delta": {
+        "active": "2929",
+        "deceased": "55",
+        "discharged": "1780",
+        "state": "Karnataka",
+        "total": "4764"
+      },
+      "discharged": "27239",
+      "state": "Karnataka",
+      "total": "75833"
+    },
+    "Kerala": {
+      "active": "8825",
+      "deceased": "45",
+      "delta": {
+        "active": "765",
+        "deceased": "1",
+        "discharged": "272",
+        "state": "Kerala",
+        "total": "1038"
+      },
+      "discharged": "6162",
+      "state": "Kerala",
+      "total": "15032"
+    },
+    "Ladakh": {
+      "active": "186",
+      "deceased": "2",
+      "delta": {
+        "active": "0",
+        "deceased": "0",
+        "discharged": "8",
+        "state": "Ladakh",
+        "total": "8"
+      },
+      "discharged": "1018",
+      "state": "Ladakh",
+      "total": "1206"
+    },
+    "Madhya Pradesh": {
+      "active": "7236",
+      "deceased": "770",
+      "delta": {
+        "active": "154",
+        "deceased": "14",
+        "discharged": "579",
+        "state": "Madhya Pradesh",
+        "total": "747"
+      },
+      "discharged": "16836",
+      "state": "Madhya Pradesh",
+      "total": "24842"
+    },
+    "Maharashtra": {
+      "active": "137282",
+      "deceased": "12556",
+      "delta": {
+        "active": "4744",
+        "deceased": "280",
+        "discharged": "5552",
+        "state": "Maharashtra",
+        "total": "10576"
+      },
+      "discharged": "187769",
+      "state": "Maharashtra",
+      "total": "337607"
+    },
+    "Manipur": {
+      "active": "632",
+      "deceased": "0",
+      "delta": {
+        "active": "17",
+        "deceased": "0",
+        "discharged": "28",
+        "state": "Manipur",
+        "total": "45"
+      },
+      "discharged": "1428",
+      "state": "Manipur",
+      "total": "2060"
+    },
+    "Meghalaya": {
+      "active": "433",
+      "deceased": "4",
+      "delta": {
+        "active": "17",
+        "deceased": "0",
+        "discharged": "7",
+        "state": "Meghalaya",
+        "total": "24"
+      },
+      "discharged": "77",
+      "state": "Meghalaya",
+      "total": "514"
+    },
+    "Mizoram": {
+      "active": "138",
+      "deceased": "0",
+      "delta": {
+        "active": "-11",
+        "deceased": "0",
+        "discharged": "11",
+        "state": "Mizoram",
+        "total": "0"
+      },
+      "discharged": "179",
+      "state": "Mizoram",
+      "total": "317"
+    },
+    "Nagaland": {
+      "active": "598",
+      "deceased": "0",
+      "delta": {
+        "active": "53",
+        "deceased": "0",
+        "discharged": "1",
+        "state": "Nagaland",
+        "total": "54"
+      },
+      "discharged": "486",
+      "state": "Nagaland",
+      "total": "1084"
+    },
+    "Odisha": {
+      "active": "5977",
+      "deceased": "108",
+      "delta": {
+        "active": "633",
+        "deceased": "5",
+        "discharged": "440",
+        "state": "Odisha",
+        "total": "1078"
+      },
+      "discharged": "13750",
+      "state": "Odisha",
+      "total": "19835"
+    },
+    "Puducherry": {
+      "active": "900",
+      "deceased": "31",
+      "delta": {
+        "active": "69",
+        "deceased": "1",
+        "discharged": "51",
+        "state": "Puducherry",
+        "total": "121"
+      },
+      "discharged": "1369",
+      "state": "Puducherry",
+      "total": "2300"
+    },
+    "Punjab": {
+      "active": "3391",
+      "deceased": "269",
+      "delta": {
+        "active": "154",
+        "deceased": "6",
+        "discharged": "252",
+        "state": "Punjab",
+        "total": "412"
+      },
+      "discharged": "7641",
+      "state": "Punjab",
+      "total": "11301"
+    },
+    "Rajasthan": {
+      "active": "8387",
+      "deceased": "583",
+      "delta": {
+        "active": "335",
+        "deceased": "6",
+        "discharged": "620",
+        "state": "Rajasthan",
+        "total": "961"
+      },
+      "discharged": "23364",
+      "state": "Rajasthan",
+      "total": "32334"
+    },
+    "Sikkim": {
+      "active": "326",
+      "deceased": "0",
+      "delta": {
+        "active": "104",
+        "deceased": "0",
+        "discharged": "4",
+        "state": "Sikkim",
+        "total": "108"
+      },
+      "discharged": "112",
+      "state": "Sikkim",
+      "total": "438"
+    },
+    "Tamil Nadu": {
+      "active": "51765",
+      "deceased": "3144",
+      "delta": {
+        "active": "418",
+        "deceased": "518",
+        "discharged": "4913",
+        "state": "Tamil Nadu",
+        "total": "5849"
+      },
+      "discharged": "131583",
+      "state": "Tamil Nadu",
+      "total": "186492"
+    },
+    "Telangana": {
+      "active": "11155",
+      "deceased": "438",
+      "delta": {
+        "active": "1264",
+        "deceased": "9",
+        "discharged": "281",
+        "state": "Telangana",
+        "total": "1554"
+      },
+      "discharged": "37666",
+      "state": "Telangana",
+      "total": "49259"
+    },
+    "Tripura": {
+      "active": "1408",
+      "deceased": "9",
+      "delta": {
+        "active": "11",
+        "deceased": "1",
+        "discharged": "106",
+        "state": "Tripura",
+        "total": "118"
+      },
+      "discharged": "2032",
+      "state": "Tripura",
+      "total": "3449"
+    },
+    "Uttar Pradesh": {
+      "active": "20825",
+      "deceased": "1263",
+      "delta": {
+        "active": "621",
+        "deceased": "34",
+        "discharged": "1645",
+        "state": "Uttar Pradesh",
+        "total": "2300"
+      },
+      "discharged": "33500",
+      "state": "Uttar Pradesh",
+      "total": "55588"
+    },
+    "Uttarakhand": {
+      "active": "1894",
+      "deceased": "57",
+      "delta": {
+        "active": "397",
+        "deceased": "2",
+        "discharged": "52",
+        "state": "Uttarakhand",
+        "total": "451"
+      },
+      "discharged": "3349",
+      "state": "Uttarakhand",
+      "total": "5300"
+    },
+    "West Bengal": {
+      "active": "18450",
+      "deceased": "1221",
+      "delta": {
+        "active": "637",
+        "deceased": "39",
+        "discharged": "1615",
+        "state": "West Bengal",
+        "total": "2291"
+      },
+      "discharged": "29650",
+      "state": "West Bengal",
+      "total": "49321"
+    }
+  },
+  "07242020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>440135</strong>",
+      "deceased": "\n\t<strong>30601</strong>\n\t",
+      "delta": {
+        "active": "NaN",
+        "deceased": "NaN",
+        "discharged": "NaN",
+        "state": "<strong><span>Total#</span></strong>",
+        "total": "NaN"
+      },
+      "discharged": "\n\t<strong>817209</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1287945</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "70",
+      "deceased": "0",
+      "delta": {
+        "active": "12",
+        "deceased": "0",
+        "discharged": "7",
+        "state": "Andaman and Nicobar Islands",
+        "total": "19"
+      },
+      "discharged": "170",
+      "state": "Andaman and Nicobar Islands",
+      "total": "240"
+    },
+    "Andhra Pradesh": {
+      "active": "34272",
+      "deceased": "884",
+      "delta": {
+        "active": "2509",
+        "deceased": "61",
+        "discharged": "5428",
+        "state": "Andhra Pradesh",
+        "total": "7998"
+      },
+      "discharged": "37555",
+      "state": "Andhra Pradesh",
+      "total": "72711"
+    },
+    "Arunachal Pradesh": {
+      "active": "654",
+      "deceased": "3",
+      "delta": {
+        "active": "22",
+        "deceased": "0",
+        "discharged": "20",
+        "state": "Arunachal Pradesh",
+        "total": "42"
+      },
+      "discharged": "334",
+      "state": "Arunachal Pradesh",
+      "total": "991"
+    },
+    "Assam": {
+      "active": "8022",
+      "deceased": "70",
+      "delta": {
+        "active": "-653",
+        "deceased": "6",
+        "discharged": "2666",
+        "state": "Assam",
+        "total": "2019"
+      },
+      "discharged": "20699",
+      "state": "Assam",
+      "total": "28791"
+    },
+    "Bihar": {
+      "active": "10994",
+      "deceased": "217",
+      "delta": {
+        "active": "488",
+        "deceased": "0",
+        "discharged": "1123",
+        "state": "Bihar",
+        "total": "1611"
+      },
+      "discharged": "20769",
+      "state": "Bihar",
+      "total": "31980"
+    },
+    "Chandigarh": {
+      "active": "256",
+      "deceased": "13",
+      "delta": {
+        "active": "2",
+        "deceased": "0",
+        "discharged": "5",
+        "state": "Chandigarh",
+        "total": "7"
+      },
+      "discharged": "531",
+      "state": "Chandigarh",
+      "total": "800"
+    },
+    "Chhattisgarh": {
+      "active": "1847",
+      "deceased": "30",
+      "delta": {
+        "active": "138",
+        "deceased": "1",
+        "discharged": "147",
+        "state": "Chhattisgarh",
+        "total": "286"
+      },
+      "discharged": "4377",
+      "state": "Chhattisgarh",
+      "total": "6254"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "279",
+      "deceased": "2",
+      "delta": {
+        "active": "22",
+        "deceased": "0",
+        "discharged": "15",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "total": "37"
+      },
+      "discharged": "489",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "770"
+    },
+    "Delhi": {
+      "active": "14554",
+      "deceased": "3745",
+      "delta": {
+        "active": "-400",
+        "deceased": "26",
+        "discharged": "1415",
+        "state": "Delhi",
+        "total": "1041"
+      },
+      "discharged": "109065",
+      "state": "Delhi",
+      "total": "127364"
+    },
+    "Goa": {
+      "active": "1666",
+      "deceased": "29",
+      "delta": {
+        "active": "59",
+        "deceased": "1",
+        "discharged": "114",
+        "state": "Goa",
+        "total": "174"
+      },
+      "discharged": "2655",
+      "state": "Goa",
+      "total": "4350"
+    },
+    "Gujarat": {
+      "active": "12247",
+      "deceased": "2252",
+      "delta": {
+        "active": "332",
+        "deceased": "28",
+        "discharged": "718",
+        "state": "Gujarat",
+        "total": "1078"
+      },
+      "discharged": "37978",
+      "state": "Gujarat",
+      "total": "52477"
+    },
+    "Haryana": {
+      "active": "6348",
+      "deceased": "378",
+      "delta": {
+        "active": "231",
+        "deceased": "6",
+        "discharged": "552",
+        "state": "Haryana",
+        "total": "789"
+      },
+      "discharged": "22249",
+      "state": "Haryana",
+      "total": "28975"
+    },
+    "Himachal Pradesh": {
+      "active": "687",
+      "deceased": "11",
+      "delta": {
+        "active": "78",
+        "deceased": "0",
+        "discharged": "31",
+        "state": "Himachal Pradesh",
+        "total": "109"
+      },
+      "discharged": "1136",
+      "state": "Himachal Pradesh",
+      "total": "1834"
+    },
+    "Jammu and Kashmir": {
+      "active": "7438",
+      "deceased": "282",
+      "delta": {
+        "active": "607",
+        "deceased": "9",
+        "discharged": "102",
+        "state": "Jammu and Kashmir",
+        "total": "718"
+      },
+      "discharged": "8709",
+      "state": "Jammu and Kashmir",
+      "total": "16429"
+    },
+    "Jharkhand": {
+      "active": "3734",
+      "deceased": "67",
+      "delta": {
+        "active": "337",
+        "deceased": "3",
+        "discharged": "150",
+        "state": "Jharkhand",
+        "total": "490"
+      },
+      "discharged": "3174",
+      "state": "Jharkhand",
+      "total": "6975"
+    },
+    "Karnataka": {
+      "active": "49937",
+      "deceased": "1616",
+      "delta": {
+        "active": "2862",
+        "deceased": "97",
+        "discharged": "2071",
+        "state": "Karnataka",
+        "total": "5030"
+      },
+      "discharged": "29310",
+      "state": "Karnataka",
+      "total": "80863"
+    },
+    "Kerala": {
+      "active": "9466",
+      "deceased": "50",
+      "delta": {
+        "active": "641",
+        "deceased": "5",
+        "discharged": "432",
+        "state": "Kerala",
+        "total": "1078"
+      },
+      "discharged": "6594",
+      "state": "Kerala",
+      "total": "16110"
+    },
+    "Ladakh": {
+      "active": "183",
+      "deceased": "2",
+      "delta": {
+        "active": "-3",
+        "deceased": "0",
+        "discharged": "7",
+        "state": "Ladakh",
+        "total": "4"
+      },
+      "discharged": "1025",
+      "state": "Ladakh",
+      "total": "1210"
+    },
+    "Madhya Pradesh": {
+      "active": "7335",
+      "deceased": "780",
+      "delta": {
+        "active": "99",
+        "deceased": "10",
+        "discharged": "523",
+        "state": "Madhya Pradesh",
+        "total": "632"
+      },
+      "discharged": "17359",
+      "state": "Madhya Pradesh",
+      "total": "25474"
+    },
+    "Maharashtra": {
+      "active": "140395",
+      "deceased": "12854",
+      "delta": {
+        "active": "3113",
+        "deceased": "298",
+        "discharged": "6484",
+        "state": "Maharashtra",
+        "total": "9895"
+      },
+      "discharged": "194253",
+      "state": "Maharashtra",
+      "total": "347502"
+    },
+    "Manipur": {
+      "active": "649",
+      "deceased": "0",
+      "delta": {
+        "active": "17",
+        "deceased": "0",
+        "discharged": "38",
+        "state": "Manipur",
+        "total": "55"
+      },
+      "discharged": "1466",
+      "state": "Manipur",
+      "total": "2115"
+    },
+    "Meghalaya": {
+      "active": "452",
+      "deceased": "4",
+      "delta": {
+        "active": "19",
+        "deceased": "0",
+        "discharged": "1",
+        "state": "Meghalaya",
+        "total": "20"
+      },
+      "discharged": "78",
+      "state": "Meghalaya",
+      "total": "534"
+    },
+    "Mizoram": {
+      "active": "149",
+      "deceased": "0",
+      "delta": {
+        "active": "11",
+        "deceased": "0",
+        "discharged": "4",
+        "state": "Mizoram",
+        "total": "15"
+      },
+      "discharged": "183",
+      "state": "Mizoram",
+      "total": "332"
+    },
+    "Nagaland": {
+      "active": "644",
+      "deceased": "0",
+      "delta": {
+        "active": "46",
+        "deceased": "0",
+        "discharged": "44",
+        "state": "Nagaland",
+        "total": "90"
+      },
+      "discharged": "530",
+      "state": "Nagaland",
+      "total": "1174"
+    },
+    "Odisha": {
+      "active": "6592",
+      "deceased": "114",
+      "delta": {
+        "active": "615",
+        "deceased": "6",
+        "discharged": "643",
+        "state": "Odisha",
+        "total": "1264"
+      },
+      "discharged": "14393",
+      "state": "Odisha",
+      "total": "21099"
+    },
+    "Puducherry": {
+      "active": "986",
+      "deceased": "34",
+      "delta": {
+        "active": "86",
+        "deceased": "3",
+        "discharged": "31",
+        "state": "Puducherry",
+        "total": "120"
+      },
+      "discharged": "1400",
+      "state": "Puducherry",
+      "total": "2420"
+    },
+    "Punjab": {
+      "active": "3721",
+      "deceased": "277",
+      "delta": {
+        "active": "330",
+        "deceased": "8",
+        "discharged": "100",
+        "state": "Punjab",
+        "total": "438"
+      },
+      "discharged": "7741",
+      "state": "Punjab",
+      "total": "11739"
+    },
+    "Rajasthan": {
+      "active": "8811",
+      "deceased": "594",
+      "delta": {
+        "active": "424",
+        "deceased": "11",
+        "discharged": "451",
+        "state": "Rajasthan",
+        "total": "886"
+      },
+      "discharged": "23815",
+      "state": "Rajasthan",
+      "total": "33220"
+    },
+    "Sikkim": {
+      "active": "338",
+      "deceased": "0",
+      "delta": {
+        "active": "12",
+        "deceased": "0",
+        "discharged": "10",
+        "state": "Sikkim",
+        "total": "22"
+      },
+      "discharged": "122",
+      "state": "Sikkim",
+      "total": "460"
+    },
+    "Tamil Nadu": {
+      "active": "52939",
+      "deceased": "3232",
+      "delta": {
+        "active": "1174",
+        "deceased": "88",
+        "discharged": "5210",
+        "state": "Tamil Nadu",
+        "total": "6472"
+      },
+      "discharged": "136793",
+      "state": "Tamil Nadu",
+      "total": "192964"
+    },
+    "Telangana": {
+      "active": "11052",
+      "deceased": "447",
+      "delta": {
+        "active": "-103",
+        "deceased": "9",
+        "discharged": "1661",
+        "state": "Telangana",
+        "total": "1567"
+      },
+      "discharged": "39327",
+      "state": "Telangana",
+      "total": "50826"
+    },
+    "Tripura": {
+      "active": "1574",
+      "deceased": "10",
+      "delta": {
+        "active": "166",
+        "deceased": "1",
+        "discharged": "40",
+        "state": "Tripura",
+        "total": "207"
+      },
+      "discharged": "2072",
+      "state": "Tripura",
+      "total": "3656"
+    },
+    "Uttar Pradesh": {
+      "active": "21012",
+      "deceased": "1289",
+      "delta": {
+        "active": "187",
+        "deceased": "26",
+        "discharged": "2303",
+        "state": "Uttar Pradesh",
+        "total": "2516"
+      },
+      "discharged": "35803",
+      "state": "Uttar Pradesh",
+      "total": "58104"
+    },
+    "Uttarakhand": {
+      "active": "1986",
+      "deceased": "60",
+      "delta": {
+        "active": "92",
+        "deceased": "3",
+        "discharged": "50",
+        "state": "Uttarakhand",
+        "total": "145"
+      },
+      "discharged": "3399",
+      "state": "Uttarakhand",
+      "total": "5445"
+    },
+    "West Bengal": {
+      "active": "18846",
+      "deceased": "1255",
+      "delta": {
+        "active": "396",
+        "deceased": "34",
+        "discharged": "2006",
+        "state": "West Bengal",
+        "total": "2436"
+      },
+      "discharged": "31656",
+      "state": "West Bengal",
+      "total": "51757"
+    }
+  },
+  "07252020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>456071</strong>",
+      "deceased": "\n\t<strong>31358</strong>\n\t",
+      "delta": {
+        "active": "NaN",
+        "deceased": "NaN",
+        "discharged": "NaN",
+        "state": "<strong><span>Total#</span></strong>",
+        "total": "NaN"
+      },
+      "discharged": "\n\t<strong>849432</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1336861</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "85",
+      "deceased": "0",
+      "delta": {
+        "active": "15",
+        "deceased": "0",
+        "discharged": "4",
+        "state": "Andaman and Nicobar Islands",
+        "total": "19"
+      },
+      "discharged": "174",
+      "state": "Andaman and Nicobar Islands",
+      "total": "259"
+    },
+    "Andhra Pradesh": {
+      "active": "39990",
+      "deceased": "933",
+      "delta": {
+        "active": "5718",
+        "deceased": "49",
+        "discharged": "2380",
+        "state": "Andhra Pradesh",
+        "total": "8147"
+      },
+      "discharged": "39935",
+      "state": "Andhra Pradesh",
+      "total": "80858"
+    },
+    "Arunachal Pradesh": {
+      "active": "661",
+      "deceased": "3",
+      "delta": {
+        "active": "7",
+        "deceased": "0",
+        "discharged": "58",
+        "state": "Arunachal Pradesh",
+        "total": "65"
+      },
+      "discharged": "392",
+      "state": "Arunachal Pradesh",
+      "total": "1056"
+    },
+    "Assam": {
+      "active": "8084",
+      "deceased": "76",
+      "delta": {
+        "active": "62",
+        "deceased": "6",
+        "discharged": "1062",
+        "state": "Assam",
+        "total": "1130"
+      },
+      "discharged": "21761",
+      "state": "Assam",
+      "total": "29921"
+    },
+    "Bihar": {
+      "active": "11363",
+      "deceased": "220",
+      "delta": {
+        "active": "369",
+        "deceased": "3",
+        "discharged": "1574",
+        "state": "Bihar",
+        "total": "1946"
+      },
+      "discharged": "22343",
+      "state": "Bihar",
+      "total": "33926"
+    },
+    "Chandigarh": {
+      "active": "275",
+      "deceased": "13",
+      "delta": {
+        "active": "19",
+        "deceased": "0",
+        "discharged": "4",
+        "state": "Chandigarh",
+        "total": "23"
+      },
+      "discharged": "535",
+      "state": "Chandigarh",
+      "total": "823"
+    },
+    "Chhattisgarh": {
+      "active": "2128",
+      "deceased": "36",
+      "delta": {
+        "active": "281",
+        "deceased": "6",
+        "discharged": "190",
+        "state": "Chhattisgarh",
+        "total": "477"
+      },
+      "discharged": "4567",
+      "state": "Chhattisgarh",
+      "total": "6731"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "301",
+      "deceased": "2",
+      "delta": {
+        "active": "22",
+        "deceased": "0",
+        "discharged": "23",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "total": "45"
+      },
+      "discharged": "512",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "815"
+    },
+    "Delhi": {
+      "active": "13681",
+      "deceased": "3777",
+      "delta": {
+        "active": "-873",
+        "deceased": "32",
+        "discharged": "1866",
+        "state": "Delhi",
+        "total": "1025"
+      },
+      "discharged": "110931",
+      "state": "Delhi",
+      "total": "128389"
+    },
+    "Goa": {
+      "active": "1646",
+      "deceased": "29",
+      "delta": {
+        "active": "-20",
+        "deceased": "0",
+        "discharged": "210",
+        "state": "Goa",
+        "total": "190"
+      },
+      "discharged": "2865",
+      "state": "Goa",
+      "total": "4540"
+    },
+    "Gujarat": {
+      "active": "12418",
+      "deceased": "2278",
+      "delta": {
+        "active": "171",
+        "deceased": "26",
+        "discharged": "871",
+        "state": "Gujarat",
+        "total": "1068"
+      },
+      "discharged": "38849",
+      "state": "Gujarat",
+      "total": "53545"
+    },
+    "Haryana": {
+      "active": "6420",
+      "deceased": "382",
+      "delta": {
+        "active": "72",
+        "deceased": "4",
+        "discharged": "704",
+        "state": "Haryana",
+        "total": "780"
+      },
+      "discharged": "22953",
+      "state": "Haryana",
+      "total": "29755"
+    },
+    "Himachal Pradesh": {
+      "active": "798",
+      "deceased": "11",
+      "delta": {
+        "active": "111",
+        "deceased": "0",
+        "discharged": "9",
+        "state": "Himachal Pradesh",
+        "total": "120"
+      },
+      "discharged": "1145",
+      "state": "Himachal Pradesh",
+      "total": "1954"
+    },
+    "Jammu and Kashmir": {
+      "active": "7269",
+      "deceased": "296",
+      "delta": {
+        "active": "-169",
+        "deceased": "14",
+        "discharged": "508",
+        "state": "Jammu and Kashmir",
+        "total": "353"
+      },
+      "discharged": "9217",
+      "state": "Jammu and Kashmir",
+      "total": "16782"
+    },
+    "Jharkhand": {
+      "active": "4116",
+      "deceased": "70",
+      "delta": {
+        "active": "382",
+        "deceased": "3",
+        "discharged": "133",
+        "state": "Jharkhand",
+        "total": "518"
+      },
+      "discharged": "3307",
+      "state": "Jharkhand",
+      "total": "7493"
+    },
+    "Karnataka": {
+      "active": "52799",
+      "deceased": "1724",
+      "delta": {
+        "active": "2862",
+        "deceased": "108",
+        "discharged": "2037",
+        "state": "Karnataka",
+        "total": "5007"
+      },
+      "discharged": "31347",
+      "state": "Karnataka",
+      "total": "85870"
+    },
+    "Kerala": {
+      "active": "9379",
+      "deceased": "54",
+      "delta": {
+        "active": "-87",
+        "deceased": "4",
+        "discharged": "968",
+        "state": "Kerala",
+        "total": "885"
+      },
+      "discharged": "7562",
+      "state": "Kerala",
+      "total": "16995"
+    },
+    "Ladakh": {
+      "active": "209",
+      "deceased": "2",
+      "delta": {
+        "active": "26",
+        "deceased": "0",
+        "discharged": "10",
+        "state": "Ladakh",
+        "total": "36"
+      },
+      "discharged": "1035",
+      "state": "Ladakh",
+      "total": "1246"
+    },
+    "Madhya Pradesh": {
+      "active": "7553",
+      "deceased": "791",
+      "delta": {
+        "active": "218",
+        "deceased": "11",
+        "discharged": "507",
+        "state": "Madhya Pradesh",
+        "total": "736"
+      },
+      "discharged": "17866",
+      "state": "Madhya Pradesh",
+      "total": "26210"
+    },
+    "Maharashtra": {
+      "active": "144018",
+      "deceased": "13132",
+      "delta": {
+        "active": "3623",
+        "deceased": "278",
+        "discharged": "5714",
+        "state": "Maharashtra",
+        "total": "9615"
+      },
+      "discharged": "199967",
+      "state": "Maharashtra",
+      "total": "357117"
+    },
+    "Manipur": {
+      "active": "655",
+      "deceased": "0",
+      "delta": {
+        "active": "6",
+        "deceased": "0",
+        "discharged": "25",
+        "state": "Manipur",
+        "total": "31"
+      },
+      "discharged": "1491",
+      "state": "Manipur",
+      "total": "2146"
+    },
+    "Meghalaya": {
+      "active": "496",
+      "deceased": "5",
+      "delta": {
+        "active": "44",
+        "deceased": "1",
+        "discharged": "9",
+        "state": "Meghalaya",
+        "total": "54"
+      },
+      "discharged": "87",
+      "state": "Meghalaya",
+      "total": "588"
+    },
+    "Mizoram": {
+      "active": "178",
+      "deceased": "0",
+      "delta": {
+        "active": "29",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Mizoram",
+        "total": "29"
+      },
+      "discharged": "183",
+      "state": "Mizoram",
+      "total": "361"
+    },
+    "Nagaland": {
+      "active": "701",
+      "deceased": "1",
+      "delta": {
+        "active": "57",
+        "deceased": "1",
+        "discharged": "7",
+        "state": "Nagaland",
+        "total": "65"
+      },
+      "discharged": "537",
+      "state": "Nagaland",
+      "total": "1239"
+    },
+    "Odisha": {
+      "active": "7372",
+      "deceased": "120",
+      "delta": {
+        "active": "780",
+        "deceased": "6",
+        "discharged": "808",
+        "state": "Odisha",
+        "total": "1594"
+      },
+      "discharged": "15201",
+      "state": "Odisha",
+      "total": "22693"
+    },
+    "Puducherry": {
+      "active": "997",
+      "deceased": "35",
+      "delta": {
+        "active": "11",
+        "deceased": "1",
+        "discharged": "83",
+        "state": "Puducherry",
+        "total": "95"
+      },
+      "discharged": "1483",
+      "state": "Puducherry",
+      "total": "2515"
+    },
+    "Punjab": {
+      "active": "3838",
+      "deceased": "282",
+      "delta": {
+        "active": "117",
+        "deceased": "5",
+        "discharged": "355",
+        "state": "Punjab",
+        "total": "477"
+      },
+      "discharged": "8096",
+      "state": "Punjab",
+      "total": "12216"
+    },
+    "Rajasthan": {
+      "active": "9029",
+      "deceased": "602",
+      "delta": {
+        "active": "218",
+        "deceased": "8",
+        "discharged": "732",
+        "state": "Rajasthan",
+        "total": "958"
+      },
+      "discharged": "24547",
+      "state": "Rajasthan",
+      "total": "34178"
+    },
+    "Sikkim": {
+      "active": "335",
+      "deceased": "0",
+      "delta": {
+        "active": "-3",
+        "deceased": "0",
+        "discharged": "20",
+        "state": "Sikkim",
+        "total": "17"
+      },
+      "discharged": "142",
+      "state": "Sikkim",
+      "total": "477"
+    },
+    "Tamil Nadu": {
+      "active": "53132",
+      "deceased": "3320",
+      "delta": {
+        "active": "193",
+        "deceased": "88",
+        "discharged": "6504",
+        "state": "Tamil Nadu",
+        "total": "6785"
+      },
+      "discharged": "143297",
+      "state": "Tamil Nadu",
+      "total": "199749"
+    },
+    "Telangana": {
+      "active": "11677",
+      "deceased": "455",
+      "delta": {
+        "active": "625",
+        "deceased": "8",
+        "discharged": "1007",
+        "state": "Telangana",
+        "total": "1640"
+      },
+      "discharged": "40334",
+      "state": "Telangana",
+      "total": "52466"
+    },
+    "Tripura": {
+      "active": "1617",
+      "deceased": "11",
+      "delta": {
+        "active": "43",
+        "deceased": "1",
+        "discharged": "59",
+        "state": "Tripura",
+        "total": "103"
+      },
+      "discharged": "2131",
+      "state": "Tripura",
+      "total": "3759"
+    },
+    "Uttar Pradesh": {
+      "active": "21711",
+      "deceased": "1348",
+      "delta": {
+        "active": "699",
+        "deceased": "59",
+        "discharged": "1909",
+        "state": "Uttar Pradesh",
+        "total": "2667"
+      },
+      "discharged": "37712",
+      "state": "Uttar Pradesh",
+      "total": "60771"
+    },
+    "Uttarakhand": {
+      "active": "1986",
+      "deceased": "60",
+      "delta": {
+        "active": "0",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Uttarakhand",
+        "total": "0"
+      },
+      "discharged": "3399",
+      "state": "Uttarakhand",
+      "total": "5445"
+    },
+    "West Bengal": {
+      "active": "19154",
+      "deceased": "1290",
+      "delta": {
+        "active": "308",
+        "deceased": "35",
+        "discharged": "1873",
+        "state": "West Bengal",
+        "total": "2216"
+      },
+      "discharged": "33529",
+      "state": "West Bengal",
+      "total": "53973"
+    }
+  },
+  "07272020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>485114</strong>",
+      "deceased": "\n\t<strong>32771</strong>\n\t",
+      "discharged": "\n\t<strong>917568</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1435453</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "142",
+      "deceased": "0",
+      "discharged": "182",
+      "state": "Andaman and Nicobar Islands",
+      "total": "324"
+    },
+    "Andhra Pradesh": {
+      "active": "48956",
+      "deceased": "1041",
+      "discharged": "46301",
+      "state": "Andhra Pradesh",
+      "total": "96298"
+    },
+    "Arunachal Pradesh": {
+      "active": "650",
+      "deceased": "3",
+      "discharged": "505",
+      "state": "Arunachal Pradesh",
+      "total": "1158"
+    },
+    "Assam": {
+      "active": "8109",
+      "deceased": "79",
+      "discharged": "24040",
+      "state": "Assam",
+      "total": "32228"
+    },
+    "Bihar": {
+      "active": "13117",
+      "deceased": "244",
+      "discharged": "25815",
+      "state": "Bihar",
+      "total": "39176"
+    },
+    "Chandigarh": {
+      "active": "302",
+      "deceased": "13",
+      "discharged": "572",
+      "state": "Chandigarh",
+      "total": "887"
+    },
+    "Chhattisgarh": {
+      "active": "2463",
+      "deceased": "43",
+      "discharged": "4944",
+      "state": "Chhattisgarh",
+      "total": "7450"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "362",
+      "deceased": "2",
+      "discharged": "550",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "914"
+    },
+    "Delhi": {
+      "active": "11904",
+      "deceased": "3827",
+      "discharged": "114875",
+      "state": "Delhi",
+      "total": "130606"
+    },
+    "Goa": {
+      "active": "1549",
+      "deceased": "35",
+      "discharged": "3277",
+      "state": "Goa",
+      "total": "4861"
+    },
+    "Gujarat": {
+      "active": "13131",
+      "deceased": "2326",
+      "discharged": "40365",
+      "state": "Gujarat",
+      "total": "55822"
+    },
+    "Haryana": {
+      "active": "6556",
+      "deceased": "392",
+      "discharged": "24384",
+      "state": "Haryana",
+      "total": "31332"
+    },
+    "Himachal Pradesh": {
+      "active": "966",
+      "deceased": "12",
+      "discharged": "1198",
+      "state": "Himachal Pradesh",
+      "total": "2176"
+    },
+    "Jammu and Kashmir": {
+      "active": "7680",
+      "deceased": "312",
+      "discharged": "9928",
+      "state": "Jammu and Kashmir",
+      "total": "17920"
+    },
+    "Jharkhand": {
+      "active": "4486",
+      "deceased": "85",
+      "discharged": "3704",
+      "state": "Jharkhand",
+      "total": "8275"
+    },
+    "Karnataka": {
+      "active": "58425",
+      "deceased": "1878",
+      "discharged": "35838",
+      "state": "Karnataka",
+      "total": "96141"
+    },
+    "Kerala": {
+      "active": "9664",
+      "deceased": "61",
+      "discharged": "9300",
+      "state": "Kerala",
+      "total": "19025"
+    },
+    "Ladakh": {
+      "active": "218",
+      "deceased": "4",
+      "discharged": "1063",
+      "state": "Ladakh",
+      "total": "1285"
+    },
+    "Madhya Pradesh": {
+      "active": "7857",
+      "deceased": "811",
+      "discharged": "19132",
+      "state": "Madhya Pradesh",
+      "total": "27800"
+    },
+    "Maharashtra": {
+      "active": "148905",
+      "deceased": "13656",
+      "discharged": "213238",
+      "state": "Maharashtra",
+      "total": "375799"
+    },
+    "Manipur": {
+      "active": "681",
+      "deceased": "0",
+      "discharged": "1554",
+      "state": "Manipur",
+      "total": "2235"
+    },
+    "Meghalaya": {
+      "active": "562",
+      "deceased": "5",
+      "discharged": "135",
+      "state": "Meghalaya",
+      "total": "702"
+    },
+    "Mizoram": {
+      "active": "168",
+      "deceased": "0",
+      "discharged": "193",
+      "state": "Mizoram",
+      "total": "361"
+    },
+    "Nagaland": {
+      "active": "786",
+      "deceased": "4",
+      "discharged": "549",
+      "state": "Nagaland",
+      "total": "1339"
+    },
+    "Odisha": {
+      "active": "8456",
+      "deceased": "140",
+      "discharged": "16793",
+      "state": "Odisha",
+      "total": "25389"
+    },
+    "Puducherry": {
+      "active": "1101",
+      "deceased": "40",
+      "discharged": "1645",
+      "state": "Puducherry",
+      "total": "2786"
+    },
+    "Punjab": {
+      "active": "4102",
+      "deceased": "306",
+      "discharged": "8810",
+      "state": "Punjab",
+      "total": "13218"
+    },
+    "Rajasthan": {
+      "active": "9935",
+      "deceased": "621",
+      "discharged": "25353",
+      "state": "Rajasthan",
+      "total": "35909"
+    },
+    "Sikkim": {
+      "active": "397",
+      "deceased": "0",
+      "discharged": "148",
+      "state": "Sikkim",
+      "total": "545"
+    },
+    "Tamil Nadu": {
+      "active": "53703",
+      "deceased": "3494",
+      "discharged": "156526",
+      "state": "Tamil Nadu",
+      "total": "213723"
+    },
+    "Telangana": {
+      "active": "12264",
+      "deceased": "463",
+      "discharged": "41332",
+      "state": "Telangana",
+      "total": "54059"
+    },
+    "Tripura": {
+      "active": "1526",
+      "deceased": "13",
+      "discharged": "2361",
+      "state": "Tripura",
+      "total": "3900"
+    },
+    "Uttar Pradesh": {
+      "active": "23921",
+      "deceased": "1426",
+      "discharged": "41641",
+      "state": "Uttar Pradesh",
+      "total": "66988"
+    },
+    "Uttarakhand": {
+      "active": "2475",
+      "deceased": "63",
+      "discharged": "3566",
+      "state": "Uttarakhand",
+      "total": "6104"
+    },
+    "West Bengal": {
+      "active": "19595",
+      "deceased": "1372",
+      "discharged": "37751",
+      "state": "West Bengal",
+      "total": "58718"
+    }
+  },
+  "07292020": {
+    " 509447": {
+      "active": "<span class=\"up\"> 12459 <i class=\"fa fa-arrow-up\"></i></span>  ",
+      "deceased": "<span class=\"cup\">  35286 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "discharged": "988029",
+      "state": " 509447",
+      "total": "34193"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "166",
+      "deceased": "196",
+      "discharged": "<span class=\"up\"> 21 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Andaman and Nicobar Islands",
+      "total": "<span class=\"cup\"> 4 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Andhra Pradesh": {
+      "active": "56527",
+      "deceased": "52622",
+      "discharged": "<span class=\"up\"> 4826 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Andhra Pradesh",
+      "total": "<span class=\"cup\"> 3064 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Arunachal Pradesh": {
+      "active": "710",
+      "deceased": "617",
+      "discharged": "<span class=\"up\"> 48 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Arunachal Pradesh",
+      "total": "<span class=\"cup\"> 43 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Assam": {
+      "active": "8241",
+      "deceased": "26618",
+      "discharged": "<span class=\"up\"> 153 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Assam",
+      "total": "<span class=\"cup\"> 1216 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Bihar": {
+      "active": "14718",
+      "deceased": "28856",
+      "discharged": "<span class=\"up\"> 1257 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Bihar",
+      "total": "<span class=\"cup\"> 1326 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Chandigarh": {
+      "active": "321",
+      "deceased": "599",
+      "discharged": "<span>&nbsp;</span>  ",
+      "state": "Chandigarh",
+      "total": "<span class=\"cup\"> 24 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Chhattisgarh": {
+      "active": "2772",
+      "deceased": "5439",
+      "discharged": "<span class=\"up\"> 243 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Chhattisgarh",
+      "total": "<span class=\"cup\"> 267 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "384",
+      "deceased": "596",
+      "discharged": "<span class=\"up\"> 4 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "<span class=\"cup\"> 32 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Delhi": {
+      "active": "10887",
+      "deceased": "117507",
+      "discharged": "<span class=\"down\"> 107 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Delhi",
+      "total": "<span class=\"cup\"> 1135 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Goa": {
+      "active": "1656",
+      "deceased": "3595",
+      "discharged": "<span class=\"down\"> 17 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Goa",
+      "total": "<span class=\"cup\"> 185 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Gujarat": {
+      "active": "13198",
+      "deceased": "42412",
+      "discharged": "<span class=\"up\"> 52 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Gujarat",
+      "total": "<span class=\"cup\"> 1032 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Haryana": {
+      "active": "6712",
+      "deceased": "25758",
+      "discharged": "<span class=\"up\"> 28 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Haryana",
+      "total": "<span class=\"cup\"> 712 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Himachal Pradesh": {
+      "active": "1082",
+      "deceased": "1234",
+      "discharged": "<span class=\"up\"> 42 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Himachal Pradesh",
+      "total": "<span class=\"cup\"> 18 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Jammu and Kashmir": {
+      "active": "7661",
+      "deceased": "10885",
+      "discharged": "<span class=\"down\"> 6 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Jammu and Kashmir",
+      "total": "<span class=\"cup\"> 483 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Jharkhand": {
+      "active": "5121",
+      "deceased": "3868",
+      "discharged": "<span class=\"up\"> 297 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Jharkhand",
+      "total": "<span class=\"cup\"> 98 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Karnataka": {
+      "active": "64442",
+      "deceased": "40504",
+      "discharged": "<span class=\"up\"> 2615 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Karnataka",
+      "total": "<span class=\"cup\"> 2819 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Kerala": {
+      "active": "10103",
+      "deceased": "10724",
+      "discharged": "<span class=\"up\"> 484 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Kerala",
+      "total": "<span class=\"cup\"> 679 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Ladakh": {
+      "active": "254",
+      "deceased": "1067",
+      "discharged": "<span class=\"up\"> 18 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Ladakh",
+      "total": "<span class=\"cup\"> 1 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Madhya Pradesh": {
+      "active": "8044",
+      "deceased": "20343",
+      "discharged": "<span class=\"up\"> 66 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Madhya Pradesh",
+      "total": "<span class=\"cup\"> 552 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Maharashtra": {
+      "active": "144998",
+      "deceased": "232277",
+      "discharged": "<span class=\"down\"> 2898 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Maharashtra",
+      "total": "<span class=\"cup\"> 10333 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Manipur": {
+      "active": "705",
+      "deceased": "1612",
+      "discharged": "<span class=\"up\"> 15 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Manipur",
+      "total": "<span class=\"cup\"> 16 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Meghalaya": {
+      "active": "580",
+      "deceased": "194",
+      "discharged": "<span class=\"up\"> 33 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Meghalaya",
+      "total": "<span class=\"cup\"> 8 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Mizoram": {
+      "active": "186",
+      "deceased": "198",
+      "discharged": "<span class=\"down\"> 5 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Mizoram",
+      "total": "<span class=\"cup\"> 5 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Nagaland": {
+      "active": "878",
+      "deceased": "577",
+      "discharged": "<span class=\"up\"> 67 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Nagaland",
+      "total": "<span class=\"cup\"> 8 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Odisha": {
+      "active": "9892",
+      "deceased": "18061",
+      "discharged": "<span class=\"up\"> 521 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Odisha",
+      "total": "<span class=\"cup\"> 687 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Puducherry": {
+      "active": "1182",
+      "deceased": "1782",
+      "discharged": "<span class=\"up\"> 73 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Puducherry",
+      "total": "<span class=\"cup\"> 62 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Punjab": {
+      "active": "4290",
+      "deceased": "9752",
+      "discharged": "<span class=\"down\"> 97 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Punjab",
+      "total": "<span class=\"cup\"> 688 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Rajasthan": {
+      "active": "10668",
+      "deceased": "27202",
+      "discharged": "<span class=\"up\"> 544 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Rajasthan",
+      "total": "<span class=\"cup\"> 1079 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Sikkim": {
+      "active": "392",
+      "deceased": "186",
+      "discharged": "<span class=\"up\"> 12 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Sikkim",
+      "total": "<span class=\"cup\"> 12 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Tamil Nadu": {
+      "active": "57073",
+      "deceased": "166956",
+      "discharged": "<span class=\"up\"> 2177 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Tamil Nadu",
+      "total": "<span class=\"cup\"> 4707 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Telengana***": {
+      "active": "13753",
+      "deceased": "42909",
+      "discharged": "<span>&nbsp;</span>  ",
+      "state": "Telengana***",
+      "total": "<span>&nbsp;</span>  "
+    },
+    "Tripura": {
+      "active": "1627",
+      "deceased": "2621",
+      "discharged": "<span class=\"up\"> 62 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Tripura",
+      "total": "<span class=\"cup\"> 154 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Uttar Pradesh": {
+      "active": "27934",
+      "deceased": "44520",
+      "discharged": "<span class=\"up\"> 1730 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Uttar Pradesh",
+      "total": "<span class=\"cup\"> 1687 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Uttarakhand": {
+      "active": "2797",
+      "deceased": "3720",
+      "discharged": "<span class=\"up\"> 210 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Uttarakhand",
+      "total": "<span class=\"cup\"> 45 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "West Bengal": {
+      "active": "19493",
+      "deceased": "42022",
+      "discharged": "<span class=\"down\"> 9 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "West Bengal",
+      "total": "<span class=\"cup\"> 2105 <i class=\"fa fa-arrow-up\"></i></span> "
+    }
+  },
+  "07312020": {
+    " 545318": {
+      "active": "<span class=\"up\"> 17076 <i class=\"fa fa-arrow-up\"></i></span>  ",
+      "deceased": "<span class=\"cup\">  37223 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "discharged": "1057805",
+      "state": " 545318",
+      "total": "35747"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "266",
+      "deceased": "201",
+      "discharged": "<span class=\"up\"> 41 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Andaman and Nicobar Islands",
+      "total": "<span>&nbsp;</span>  "
+    },
+    "Andhra Pradesh": {
+      "active": "69252",
+      "deceased": "60024",
+      "discharged": "<span class=\"up\"> 5481 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Andhra Pradesh",
+      "total": "<span class=\"cup\"> 4618 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Arunachal Pradesh": {
+      "active": "654",
+      "deceased": "827",
+      "discharged": "<span class=\"down\"> 76 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Arunachal Pradesh",
+      "total": "<span class=\"cup\"> 150 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Assam": {
+      "active": "9233",
+      "deceased": "29080",
+      "discharged": "<span class=\"up\"> 862 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Assam",
+      "total": "<span class=\"cup\"> 1248 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Bihar": {
+      "active": "16845",
+      "deceased": "31350",
+      "discharged": "<span class=\"up\"> 1363 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Bihar",
+      "total": "<span class=\"cup\"> 1030 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Chandigarh": {
+      "active": "355",
+      "deceased": "647",
+      "discharged": "<span class=\"up\"> 2 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Chandigarh",
+      "total": "<span class=\"cup\"> 36 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Chhattisgarh": {
+      "active": "2789",
+      "deceased": "5921",
+      "discharged": "<span class=\"down\"> 66 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Chhattisgarh",
+      "total": "<span class=\"cup\"> 285 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "394",
+      "deceased": "668",
+      "discharged": "<span class=\"up\"> 18 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "<span class=\"cup\"> 20 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Delhi": {
+      "active": "10743",
+      "deceased": "119724",
+      "discharged": "<span class=\"down\"> 27 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Delhi",
+      "total": "<span class=\"cup\"> 1091 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Goa": {
+      "active": "1657",
+      "deceased": "4005",
+      "discharged": "<span class=\"down\"> 9 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Goa",
+      "total": "<span class=\"cup\"> 221 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Gujarat": {
+      "active": "13793",
+      "deceased": "44074",
+      "discharged": "<span class=\"up\"> 258 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Gujarat",
+      "total": "<span class=\"cup\"> 879 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Haryana": {
+      "active": "6497",
+      "deceased": "27340",
+      "discharged": "<span class=\"down\"> 301 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Haryana",
+      "total": "<span class=\"cup\"> 920 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Himachal Pradesh": {
+      "active": "1105",
+      "deceased": "1387",
+      "discharged": "<span class=\"up\"> 48 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Himachal Pradesh",
+      "total": "<span class=\"cup\"> 55 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Jammu and Kashmir": {
+      "active": "7662",
+      "deceased": "11842",
+      "discharged": "<span class=\"down\"> 87 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Jammu and Kashmir",
+      "total": "<span class=\"cup\"> 520 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Jharkhand": {
+      "active": "5888",
+      "deceased": "4176",
+      "discharged": "<span class=\"up\"> 160 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Jharkhand",
+      "total": "<span class=\"cup\"> 141 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Karnataka": {
+      "active": "69708",
+      "deceased": "46694",
+      "discharged": "<span class=\"up\"> 2252 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Karnataka",
+      "total": "<span class=\"cup\"> 3793 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Kerala": {
+      "active": "10074",
+      "deceased": "12159",
+      "discharged": "<span class=\"down\"> 290 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Kerala",
+      "total": "<span class=\"cup\"> 794 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Ladakh": {
+      "active": "277",
+      "deceased": "1094",
+      "discharged": "<span class=\"up\"> 16 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Ladakh",
+      "total": "<span class=\"cup\"> 14 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Madhya Pradesh": {
+      "active": "8454",
+      "deceased": "21657",
+      "discharged": "<span class=\"up\"> 97 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Madhya Pradesh",
+      "total": "<span class=\"cup\"> 723 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Maharashtra": {
+      "active": "148454",
+      "deceased": "248615",
+      "discharged": "<span class=\"up\"> 2021 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Maharashtra",
+      "total": "<span class=\"cup\"> 8860 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Manipur": {
+      "active": "829",
+      "deceased": "1672",
+      "discharged": "<span class=\"up\"> 10 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Manipur",
+      "total": "<span class=\"cup\"> 33 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Meghalaya": {
+      "active": "588",
+      "deceased": "210",
+      "discharged": "<span class=\"up\"> 16 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Meghalaya",
+      "total": "<span class=\"cup\"> 3 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Mizoram": {
+      "active": "174",
+      "deceased": "234",
+      "discharged": "<span class=\"down\"> 9 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Mizoram",
+      "total": "<span class=\"cup\"> 19 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Nagaland": {
+      "active": "936",
+      "deceased": "625",
+      "discharged": "<span class=\"up\"> 23 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Nagaland",
+      "total": "<span class=\"cup\"> 30 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Odisha": {
+      "active": "10463",
+      "deceased": "19746",
+      "discharged": "<span class=\"up\"> 386 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Odisha",
+      "total": "<span class=\"cup\"> 807 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Puducherry": {
+      "active": "1292",
+      "deceased": "1958",
+      "discharged": "<span class=\"up\"> 36 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Puducherry",
+      "total": "<span class=\"cup\"> 84 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Punjab": {
+      "active": "4577",
+      "deceased": "10509",
+      "discharged": "<span class=\"up\"> 205 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Punjab",
+      "total": "<span class=\"cup\"> 296 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Rajasthan": {
+      "active": "11097",
+      "deceased": "28385",
+      "discharged": "<span class=\"up\"> 352 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Rajasthan",
+      "total": "<span class=\"cup\"> 816 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Sikkim": {
+      "active": "395",
+      "deceased": "214",
+      "discharged": "<span class=\"down\"> 2 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Sikkim",
+      "total": "<span class=\"cup\"> 16 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Tamil Nadu": {
+      "active": "57962",
+      "deceased": "178178",
+      "discharged": "<span class=\"up\"> 472 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Tamil Nadu",
+      "total": "<span class=\"cup\"> 5295 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Telengana": {
+      "active": "15640",
+      "deceased": "44572",
+      "discharged": "<span class=\"up\"> 977 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Telengana",
+      "total": "<span class=\"cup\"> 821 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Tripura": {
+      "active": "1723",
+      "deceased": "2962",
+      "discharged": "<span class=\"down\"> 63 <i class=\"fa fa-arrow-down\"></i></span> ",
+      "state": "Tripura",
+      "total": "<span class=\"cup\"> 284 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Uttar Pradesh": {
+      "active": "32649",
+      "deceased": "46803",
+      "discharged": "<span class=\"up\"> 2652 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Uttar Pradesh",
+      "total": "<span class=\"cup\"> 996 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "Uttarakhand": {
+      "active": "2993",
+      "deceased": "3996",
+      "discharged": "<span class=\"up\"> 10 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "Uttarakhand",
+      "total": "<span class=\"cup\"> 185 <i class=\"fa fa-arrow-up\"></i></span> "
+    },
+    "West Bengal": {
+      "active": "19900",
+      "deceased": "46256",
+      "discharged": "<span class=\"up\"> 248 <i class=\"fa fa-arrow-up\"></i></span> ",
+      "state": "West Bengal",
+      "total": "<span class=\"cup\"> 2140 <i class=\"fa fa-arrow-up\"></i></span> "
+    }
+  },
+  "7172020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>342473</strong>",
+      "deceased": "\n\t<strong>25602</strong>\n\t",
+      "discharged": "\n\t<strong>635757</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1003832</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "47",
+      "deceased": "0",
+      "discharged": "133",
+      "state": "Andaman and Nicobar Islands",
+      "total": "180"
+    },
+    "Andhra Pradesh": {
+      "active": "18159",
+      "deceased": "492",
+      "discharged": "19393",
+      "state": "Andhra Pradesh",
+      "total": "38044"
+    },
+    "Arunachal Pradesh": {
+      "active": "387",
+      "deceased": "3",
+      "discharged": "153",
+      "state": "Arunachal Pradesh",
+      "total": "543"
+    },
+    "Assam": {
+      "active": "6818",
+      "deceased": "48",
+      "discharged": "12888",
+      "state": "Assam",
+      "total": "19754"
+    },
+    "Bihar": {
+      "active": "7549",
+      "deceased": "197",
+      "discharged": "14018",
+      "state": "Bihar",
+      "total": "21764"
+    },
+    "Cases being reassigned to states": {
+      "active": "531",
+      "deceased": "",
+      "discharged": "",
+      "state": "Cases being reassigned to states",
+      "total": "531"
+    },
+    "Chandigarh": {
+      "active": "164",
+      "deceased": "11",
+      "discharged": "476",
+      "state": "Chandigarh",
+      "total": "651"
+    },
+    "Chhattisgarh": {
+      "active": "1260",
+      "deceased": "21",
+      "discharged": "3451",
+      "state": "Chhattisgarh",
+      "total": "4732"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "179",
+      "deceased": "2",
+      "discharged": "371",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "552"
+    },
+    "Delhi": {
+      "active": "17407",
+      "deceased": "3545",
+      "discharged": "97693",
+      "state": "Delhi",
+      "total": "118645"
+    },
+    "Goa": {
+      "active": "1272",
+      "deceased": "19",
+      "discharged": "1817",
+      "state": "Goa",
+      "total": "3108"
+    },
+    "Gujarat": {
+      "active": "11289",
+      "deceased": "2089",
+      "discharged": "32103",
+      "state": "Gujarat",
+      "total": "45481"
+    },
+    "Haryana": {
+      "active": "5495",
+      "deceased": "322",
+      "discharged": "18185",
+      "state": "Haryana",
+      "total": "24002"
+    },
+    "Himachal Pradesh": {
+      "active": "382",
+      "deceased": "11",
+      "discharged": "984",
+      "state": "Himachal Pradesh",
+      "total": "1377"
+    },
+    "Jammu and Kashmir": {
+      "active": "5488",
+      "deceased": "222",
+      "discharged": "6446",
+      "state": "Jammu and Kashmir",
+      "total": "12156"
+    },
+    "Jharkhand": {
+      "active": "2069",
+      "deceased": "42",
+      "discharged": "2513",
+      "state": "Jharkhand",
+      "total": "4624"
+    },
+    "Karnataka": {
+      "active": "30661",
+      "deceased": "1032",
+      "discharged": "19729",
+      "state": "Karnataka",
+      "total": "51422"
+    },
+    "Kerala": {
+      "active": "5376",
+      "deceased": "37",
+      "discharged": "4862",
+      "state": "Kerala",
+      "total": "10275"
+    },
+    "Ladakh": {
+      "active": "176",
+      "deceased": "1",
+      "discharged": "970",
+      "state": "Ladakh",
+      "total": "1147"
+    },
+    "Madhya Pradesh": {
+      "active": "5562",
+      "deceased": "689",
+      "discharged": "14127",
+      "state": "Madhya Pradesh",
+      "total": "20378"
+    },
+    "Maharashtra": {
+      "active": "114947",
+      "deceased": "11194",
+      "discharged": "158140",
+      "state": "Maharashtra",
+      "total": "284281"
+    },
+    "Manipur": {
+      "active": "635",
+      "deceased": "0",
+      "discharged": "1129",
+      "state": "Manipur",
+      "total": "1764"
+    },
+    "Meghalaya": {
+      "active": "309",
+      "deceased": "2",
+      "discharged": "66",
+      "state": "Meghalaya",
+      "total": "377"
+    },
+    "Mizoram": {
+      "active": "112",
+      "deceased": "0",
+      "discharged": "160",
+      "state": "Mizoram",
+      "total": "272"
+    },
+    "Nagaland": {
+      "active": "525",
+      "deceased": "0",
+      "discharged": "391",
+      "state": "Nagaland",
+      "total": "916"
+    },
+    "Odisha": {
+      "active": "4436",
+      "deceased": "79",
+      "discharged": "10877",
+      "state": "Odisha",
+      "total": "15392"
+    },
+    "Puducherry": {
+      "active": "774",
+      "deceased": "22",
+      "discharged": "947",
+      "state": "Puducherry",
+      "total": "1743"
+    },
+    "Punjab": {
+      "active": "2587",
+      "deceased": "230",
+      "discharged": "6277",
+      "state": "Punjab",
+      "total": "9094"
+    },
+    "Rajasthan": {
+      "active": "6666",
+      "deceased": "538",
+      "discharged": "19970",
+      "state": "Rajasthan",
+      "total": "27174"
+    },
+    "Sikkim": {
+      "active": "155",
+      "deceased": "0",
+      "discharged": "88",
+      "state": "Sikkim",
+      "total": "243"
+    },
+    "Tamil Nadu": {
+      "active": "46717",
+      "deceased": "2236",
+      "discharged": "107416",
+      "state": "Tamil Nadu",
+      "total": "156369"
+    },
+    "Telangana": {
+      "active": "13327",
+      "deceased": "396",
+      "discharged": "27295",
+      "state": "Telangana",
+      "total": "41018"
+    },
+    "Tripura": {
+      "active": "676",
+      "deceased": "3",
+      "discharged": "1604",
+      "state": "Tripura",
+      "total": "2283"
+    },
+    "Uttar Pradesh": {
+      "active": "15720",
+      "deceased": "1046",
+      "discharged": "26675",
+      "state": "Uttar Pradesh",
+      "total": "43441"
+    },
+    "Uttarakhand": {
+      "active": "937",
+      "deceased": "50",
+      "discharged": "2995",
+      "state": "Uttarakhand",
+      "total": "3982"
+    },
+    "West Bengal": {
+      "active": "13679",
+      "deceased": "1023",
+      "discharged": "21415",
+      "state": "West Bengal",
+      "total": "36117"
+    }
+  },
+  "7182020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>358692</strong>",
+      "deceased": "\n\t<strong>26273</strong>\n\t",
+      "delta": {
+        "active": "NaN",
+        "deceased": "NaN",
+        "discharged": "NaN",
+        "state": "<strong><span>Total#</span></strong>",
+        "total": "NaN"
+      },
+      "discharged": "\n\t<strong>653751</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1038716</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "52",
+      "deceased": "0",
+      "delta": {
+        "active": "5",
+        "deceased": "0",
+        "discharged": "9",
+        "state": "Andaman and Nicobar Islands",
+        "total": "14"
+      },
+      "discharged": "142",
+      "state": "Andaman and Nicobar Islands",
+      "total": "194"
+    },
+    "Andhra Pradesh": {
+      "active": "19814",
+      "deceased": "534",
+      "delta": {
+        "active": "1655",
+        "deceased": "42",
+        "discharged": "905",
+        "state": "Andhra Pradesh",
+        "total": "2602"
+      },
+      "discharged": "20298",
+      "state": "Andhra Pradesh",
+      "total": "40646"
+    },
+    "Arunachal Pradesh": {
+      "active": "431",
+      "deceased": "3",
+      "delta": {
+        "active": "44",
+        "deceased": "0",
+        "discharged": "22",
+        "state": "Arunachal Pradesh",
+        "total": "66"
+      },
+      "discharged": "175",
+      "state": "Arunachal Pradesh",
+      "total": "609"
+    },
+    "Assam": {
+      "active": "6490",
+      "deceased": "51",
+      "delta": {
+        "active": "-328",
+        "deceased": "3",
+        "discharged": "1217",
+        "state": "Assam",
+        "total": "892"
+      },
+      "discharged": "14105",
+      "state": "Assam",
+      "total": "20646"
+    },
+    "Bihar": {
+      "active": "8767",
+      "deceased": "201",
+      "delta": {
+        "active": "1218",
+        "deceased": "4",
+        "discharged": "603",
+        "state": "Bihar",
+        "total": "1825"
+      },
+      "discharged": "14621",
+      "state": "Bihar",
+      "total": "23589"
+    },
+    "Cases being reassigned to states": {
+      "active": "163",
+      "deceased": "",
+      "delta": {
+        "active": "-368",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Cases being reassigned to states",
+        "total": "-368"
+      },
+      "discharged": "",
+      "state": "Cases being reassigned to states",
+      "total": "163"
+    },
+    "Chandigarh": {
+      "active": "169",
+      "deceased": "11",
+      "delta": {
+        "active": "5",
+        "deceased": "0",
+        "discharged": "4",
+        "state": "Chandigarh",
+        "total": "9"
+      },
+      "discharged": "480",
+      "state": "Chandigarh",
+      "total": "660"
+    },
+    "Chhattisgarh": {
+      "active": "1429",
+      "deceased": "23",
+      "delta": {
+        "active": "169",
+        "deceased": "2",
+        "discharged": "61",
+        "state": "Chhattisgarh",
+        "total": "232"
+      },
+      "discharged": "3512",
+      "state": "Chhattisgarh",
+      "total": "4964"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "182",
+      "deceased": "2",
+      "delta": {
+        "active": "3",
+        "deceased": "0",
+        "discharged": "30",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "total": "33"
+      },
+      "discharged": "401",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "585"
+    },
+    "Delhi": {
+      "active": "17235",
+      "deceased": "3571",
+      "delta": {
+        "active": "-172",
+        "deceased": "26",
+        "discharged": "1608",
+        "state": "Delhi",
+        "total": "1462"
+      },
+      "discharged": "99301",
+      "state": "Delhi",
+      "total": "120107"
+    },
+    "Goa": {
+      "active": "1337",
+      "deceased": "21",
+      "delta": {
+        "active": "65",
+        "deceased": "2",
+        "discharged": "129",
+        "state": "Goa",
+        "total": "196"
+      },
+      "discharged": "1946",
+      "state": "Goa",
+      "total": "3304"
+    },
+    "Gujarat": {
+      "active": "11351",
+      "deceased": "2106",
+      "delta": {
+        "active": "62",
+        "deceased": "17",
+        "discharged": "870",
+        "state": "Gujarat",
+        "total": "949"
+      },
+      "discharged": "32973",
+      "state": "Gujarat",
+      "total": "46430"
+    },
+    "Haryana": {
+      "active": "5752",
+      "deceased": "327",
+      "delta": {
+        "active": "257",
+        "deceased": "5",
+        "discharged": "533",
+        "state": "Haryana",
+        "total": "795"
+      },
+      "discharged": "18718",
+      "state": "Haryana",
+      "total": "24797"
+    },
+    "Himachal Pradesh": {
+      "active": "382",
+      "deceased": "11",
+      "delta": {
+        "active": "0",
+        "deceased": "0",
+        "discharged": "40",
+        "state": "Himachal Pradesh",
+        "total": "40"
+      },
+      "discharged": "1024",
+      "state": "Himachal Pradesh",
+      "total": "1417"
+    },
+    "Jammu and Kashmir": {
+      "active": "5968",
+      "deceased": "231",
+      "delta": {
+        "active": "480",
+        "deceased": "9",
+        "discharged": "112",
+        "state": "Jammu and Kashmir",
+        "total": "601"
+      },
+      "discharged": "6558",
+      "state": "Jammu and Kashmir",
+      "total": "12757"
+    },
+    "Jharkhand": {
+      "active": "2305",
+      "deceased": "46",
+      "delta": {
+        "active": "236",
+        "deceased": "4",
+        "discharged": "57",
+        "state": "Jharkhand",
+        "total": "297"
+      },
+      "discharged": "2570",
+      "state": "Jharkhand",
+      "total": "4921"
+    },
+    "Karnataka": {
+      "active": "33211",
+      "deceased": "1147",
+      "delta": {
+        "active": "2550",
+        "deceased": "115",
+        "discharged": "1028",
+        "state": "Karnataka",
+        "total": "3693"
+      },
+      "discharged": "20757",
+      "state": "Karnataka",
+      "total": "55115"
+    },
+    "Kerala": {
+      "active": "6033",
+      "deceased": "38",
+      "delta": {
+        "active": "657",
+        "deceased": "1",
+        "discharged": "133",
+        "state": "Kerala",
+        "total": "791"
+      },
+      "discharged": "4995",
+      "state": "Kerala",
+      "total": "11066"
+    },
+    "Ladakh": {
+      "active": "177",
+      "deceased": "1",
+      "delta": {
+        "active": "1",
+        "deceased": "0",
+        "discharged": "3",
+        "state": "Ladakh",
+        "total": "4"
+      },
+      "discharged": "973",
+      "state": "Ladakh",
+      "total": "1151"
+    },
+    "Madhya Pradesh": {
+      "active": "5870",
+      "deceased": "697",
+      "delta": {
+        "active": "308",
+        "deceased": "8",
+        "discharged": "387",
+        "state": "Madhya Pradesh",
+        "total": "703"
+      },
+      "discharged": "14514",
+      "state": "Madhya Pradesh",
+      "total": "21081"
+    },
+    "Maharashtra": {
+      "active": "120780",
+      "deceased": "11452",
+      "delta": {
+        "active": "5833",
+        "deceased": "258",
+        "discharged": "2217",
+        "state": "Maharashtra",
+        "total": "8308"
+      },
+      "discharged": "160357",
+      "state": "Maharashtra",
+      "total": "292589"
+    },
+    "Manipur": {
+      "active": "637",
+      "deceased": "0",
+      "delta": {
+        "active": "2",
+        "deceased": "0",
+        "discharged": "34",
+        "state": "Manipur",
+        "total": "36"
+      },
+      "discharged": "1163",
+      "state": "Manipur",
+      "total": "1800"
+    },
+    "Meghalaya": {
+      "active": "335",
+      "deceased": "2",
+      "delta": {
+        "active": "26",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Meghalaya",
+        "total": "26"
+      },
+      "discharged": "66",
+      "state": "Meghalaya",
+      "total": "403"
+    },
+    "Mizoram": {
+      "active": "122",
+      "deceased": "0",
+      "delta": {
+        "active": "10",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Mizoram",
+        "total": "10"
+      },
+      "discharged": "160",
+      "state": "Mizoram",
+      "total": "282"
+    },
+    "Nagaland": {
+      "active": "551",
+      "deceased": "0",
+      "delta": {
+        "active": "26",
+        "deceased": "0",
+        "discharged": "14",
+        "state": "Nagaland",
+        "total": "40"
+      },
+      "discharged": "405",
+      "state": "Nagaland",
+      "total": "956"
+    },
+    "Odisha": {
+      "active": "4697",
+      "deceased": "83",
+      "delta": {
+        "active": "261",
+        "deceased": "4",
+        "discharged": "453",
+        "state": "Odisha",
+        "total": "718"
+      },
+      "discharged": "11330",
+      "state": "Odisha",
+      "total": "16110"
+    },
+    "Puducherry": {
+      "active": "793",
+      "deceased": "25",
+      "delta": {
+        "active": "19",
+        "deceased": "3",
+        "discharged": "67",
+        "state": "Puducherry",
+        "total": "89"
+      },
+      "discharged": "1014",
+      "state": "Puducherry",
+      "total": "1832"
+    },
+    "Punjab": {
+      "active": "2830",
+      "deceased": "239",
+      "delta": {
+        "active": "243",
+        "deceased": "9",
+        "discharged": "96",
+        "state": "Punjab",
+        "total": "348"
+      },
+      "discharged": "6373",
+      "state": "Punjab",
+      "total": "9442"
+    },
+    "Rajasthan": {
+      "active": "6617",
+      "deceased": "546",
+      "delta": {
+        "active": "-49",
+        "deceased": "8",
+        "discharged": "656",
+        "state": "Rajasthan",
+        "total": "615"
+      },
+      "discharged": "20626",
+      "state": "Rajasthan",
+      "total": "27789"
+    },
+    "Sikkim": {
+      "active": "176",
+      "deceased": "0",
+      "delta": {
+        "active": "21",
+        "deceased": "0",
+        "discharged": "2",
+        "state": "Sikkim",
+        "total": "23"
+      },
+      "discharged": "90",
+      "state": "Sikkim",
+      "total": "266"
+    },
+    "Tamil Nadu": {
+      "active": "47785",
+      "deceased": "2315",
+      "delta": {
+        "active": "1068",
+        "deceased": "79",
+        "discharged": "3391",
+        "state": "Tamil Nadu",
+        "total": "4538"
+      },
+      "discharged": "110807",
+      "state": "Tamil Nadu",
+      "total": "160907"
+    },
+    "Telangana": {
+      "active": "13388",
+      "deceased": "403",
+      "delta": {
+        "active": "61",
+        "deceased": "7",
+        "discharged": "1410",
+        "state": "Telangana",
+        "total": "1478"
+      },
+      "discharged": "28705",
+      "state": "Telangana",
+      "total": "42496"
+    },
+    "Tripura": {
+      "active": "679",
+      "deceased": "3",
+      "delta": {
+        "active": "3",
+        "deceased": "0",
+        "discharged": "80",
+        "state": "Tripura",
+        "total": "83"
+      },
+      "discharged": "1684",
+      "state": "Tripura",
+      "total": "2366"
+    },
+    "Uttar Pradesh": {
+      "active": "16445",
+      "deceased": "1084",
+      "delta": {
+        "active": "725",
+        "deceased": "38",
+        "discharged": "959",
+        "state": "Uttar Pradesh",
+        "total": "1722"
+      },
+      "discharged": "27634",
+      "state": "Uttar Pradesh",
+      "total": "45163"
+    },
+    "Uttarakhand": {
+      "active": "1030",
+      "deceased": "51",
+      "delta": {
+        "active": "93",
+        "deceased": "1",
+        "discharged": "26",
+        "state": "Uttarakhand",
+        "total": "120"
+      },
+      "discharged": "3021",
+      "state": "Uttarakhand",
+      "total": "4102"
+    },
+    "West Bengal": {
+      "active": "14709",
+      "deceased": "1049",
+      "delta": {
+        "active": "1030",
+        "deceased": "26",
+        "discharged": "838",
+        "state": "West Bengal",
+        "total": "1894"
+      },
+      "discharged": "22253",
+      "state": "West Bengal",
+      "total": "38011"
+    }
+  },
+  "7192020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>373379</strong>",
+      "deceased": "\n\t<strong>26816</strong>\n\t",
+      "delta": {
+        "active": "NaN",
+        "deceased": "NaN",
+        "discharged": "NaN",
+        "state": "<strong><span>Total#</span></strong>",
+        "total": "NaN"
+      },
+      "discharged": "\n\t<strong>677423</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1077618</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "53",
+      "deceased": "0",
+      "delta": {
+        "active": "1",
+        "deceased": "0",
+        "discharged": "3",
+        "state": "Andaman and Nicobar Islands",
+        "total": "4"
+      },
+      "discharged": "145",
+      "state": "Andaman and Nicobar Islands",
+      "total": "198"
+    },
+    "Andhra Pradesh": {
+      "active": "22260",
+      "deceased": "586",
+      "delta": {
+        "active": "2446",
+        "deceased": "52",
+        "discharged": "1465",
+        "state": "Andhra Pradesh",
+        "total": "3963"
+      },
+      "discharged": "21763",
+      "state": "Andhra Pradesh",
+      "total": "44609"
+    },
+    "Arunachal Pradesh": {
+      "active": "373",
+      "deceased": "3",
+      "delta": {
+        "active": "-58",
+        "deceased": "0",
+        "discharged": "99",
+        "state": "Arunachal Pradesh",
+        "total": "41"
+      },
+      "discharged": "274",
+      "state": "Arunachal Pradesh",
+      "total": "650"
+    },
+    "Assam": {
+      "active": "7700",
+      "deceased": "53",
+      "delta": {
+        "active": "1210",
+        "deceased": "2",
+        "discharged": "1060",
+        "state": "Assam",
+        "total": "2272"
+      },
+      "discharged": "15165",
+      "state": "Assam",
+      "total": "22918"
+    },
+    "Bihar": {
+      "active": "9392",
+      "deceased": "208",
+      "delta": {
+        "active": "625",
+        "deceased": "7",
+        "discharged": "915",
+        "state": "Bihar",
+        "total": "1547"
+      },
+      "discharged": "15536",
+      "state": "Bihar",
+      "total": "25136"
+    },
+    "Chandigarh": {
+      "active": "203",
+      "deceased": "12",
+      "delta": {
+        "active": "34",
+        "deceased": "1",
+        "discharged": "5",
+        "state": "Chandigarh",
+        "total": "40"
+      },
+      "discharged": "485",
+      "state": "Chandigarh",
+      "total": "700"
+    },
+    "Chhattisgarh": {
+      "active": "1551",
+      "deceased": "24",
+      "delta": {
+        "active": "122",
+        "deceased": "1",
+        "discharged": "146",
+        "state": "Chhattisgarh",
+        "total": "269"
+      },
+      "discharged": "3658",
+      "state": "Chhattisgarh",
+      "total": "5233"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "186",
+      "deceased": "2",
+      "delta": {
+        "active": "4",
+        "deceased": "0",
+        "discharged": "13",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "total": "17"
+      },
+      "discharged": "414",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "602"
+    },
+    "Delhi": {
+      "active": "16711",
+      "deceased": "3597",
+      "delta": {
+        "active": "-524",
+        "deceased": "26",
+        "discharged": "1973",
+        "state": "Delhi",
+        "total": "1475"
+      },
+      "discharged": "101274",
+      "state": "Delhi",
+      "total": "121582"
+    },
+    "Goa": {
+      "active": "1425",
+      "deceased": "21",
+      "delta": {
+        "active": "88",
+        "deceased": "0",
+        "discharged": "92",
+        "state": "Goa",
+        "total": "180"
+      },
+      "discharged": "2038",
+      "state": "Goa",
+      "total": "3484"
+    },
+    "Gujarat": {
+      "active": "11233",
+      "deceased": "2122",
+      "delta": {
+        "active": "-118",
+        "deceased": "16",
+        "discharged": "1062",
+        "state": "Gujarat",
+        "total": "960"
+      },
+      "discharged": "34035",
+      "state": "Gujarat",
+      "total": "47390"
+    },
+    "Haryana": {
+      "active": "5885",
+      "deceased": "344",
+      "delta": {
+        "active": "133",
+        "deceased": "17",
+        "discharged": "600",
+        "state": "Haryana",
+        "total": "750"
+      },
+      "discharged": "19318",
+      "state": "Haryana",
+      "total": "25547"
+    },
+    "Himachal Pradesh": {
+      "active": "410",
+      "deceased": "11",
+      "delta": {
+        "active": "28",
+        "deceased": "0",
+        "discharged": "12",
+        "state": "Himachal Pradesh",
+        "total": "40"
+      },
+      "discharged": "1036",
+      "state": "Himachal Pradesh",
+      "total": "1457"
+    },
+    "Jammu and Kashmir": {
+      "active": "5797",
+      "deceased": "236",
+      "delta": {
+        "active": "-171",
+        "deceased": "5",
+        "discharged": "607",
+        "state": "Jammu and Kashmir",
+        "total": "441"
+      },
+      "discharged": "7165",
+      "state": "Jammu and Kashmir",
+      "total": "13198"
+    },
+    "Jharkhand": {
+      "active": "2685",
+      "deceased": "46",
+      "delta": {
+        "active": "380",
+        "deceased": "0",
+        "discharged": "41",
+        "state": "Jharkhand",
+        "total": "421"
+      },
+      "discharged": "2611",
+      "state": "Jharkhand",
+      "total": "5342"
+    },
+    "Karnataka": {
+      "active": "36637",
+      "deceased": "1240",
+      "delta": {
+        "active": "3426",
+        "deceased": "93",
+        "discharged": "1018",
+        "state": "Karnataka",
+        "total": "4537"
+      },
+      "discharged": "21775",
+      "state": "Karnataka",
+      "total": "59652"
+    },
+    "Kerala": {
+      "active": "6420",
+      "deceased": "40",
+      "delta": {
+        "active": "387",
+        "deceased": "2",
+        "discharged": "204",
+        "state": "Kerala",
+        "total": "593"
+      },
+      "discharged": "5199",
+      "state": "Kerala",
+      "total": "11659"
+    },
+    "Ladakh": {
+      "active": "173",
+      "deceased": "1",
+      "delta": {
+        "active": "-4",
+        "deceased": "0",
+        "discharged": "12",
+        "state": "Ladakh",
+        "total": "8"
+      },
+      "discharged": "985",
+      "state": "Ladakh",
+      "total": "1159"
+    },
+    "Madhya Pradesh": {
+      "active": "6193",
+      "deceased": "706",
+      "delta": {
+        "active": "323",
+        "deceased": "9",
+        "discharged": "350",
+        "state": "Madhya Pradesh",
+        "total": "682"
+      },
+      "discharged": "14864",
+      "state": "Madhya Pradesh",
+      "total": "21763"
+    },
+    "Maharashtra": {
+      "active": "123678",
+      "deceased": "11596",
+      "delta": {
+        "active": "2898",
+        "deceased": "144",
+        "discharged": "5306",
+        "state": "Maharashtra",
+        "total": "8348"
+      },
+      "discharged": "165663",
+      "state": "Maharashtra",
+      "total": "300937"
+    },
+    "Manipur": {
+      "active": "709",
+      "deceased": "0",
+      "delta": {
+        "active": "72",
+        "deceased": "0",
+        "discharged": "19",
+        "state": "Manipur",
+        "total": "91"
+      },
+      "discharged": "1182",
+      "state": "Manipur",
+      "total": "1891"
+    },
+    "Meghalaya": {
+      "active": "350",
+      "deceased": "2",
+      "delta": {
+        "active": "15",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Meghalaya",
+        "total": "15"
+      },
+      "discharged": "66",
+      "state": "Meghalaya",
+      "total": "418"
+    },
+    "Mizoram": {
+      "active": "117",
+      "deceased": "0",
+      "delta": {
+        "active": "-5",
+        "deceased": "0",
+        "discharged": "7",
+        "state": "Mizoram",
+        "total": "2"
+      },
+      "discharged": "167",
+      "state": "Mizoram",
+      "total": "284"
+    },
+    "Nagaland": {
+      "active": "546",
+      "deceased": "0",
+      "delta": {
+        "active": "-5",
+        "deceased": "0",
+        "discharged": "27",
+        "state": "Nagaland",
+        "total": "22"
+      },
+      "discharged": "432",
+      "state": "Nagaland",
+      "total": "978"
+    },
+    "Odisha": {
+      "active": "4678",
+      "deceased": "86",
+      "delta": {
+        "active": "-19",
+        "deceased": "3",
+        "discharged": "607",
+        "state": "Odisha",
+        "total": "591"
+      },
+      "discharged": "11937",
+      "state": "Odisha",
+      "total": "16701"
+    },
+    "Puducherry": {
+      "active": "800",
+      "deceased": "28",
+      "delta": {
+        "active": "7",
+        "deceased": "3",
+        "discharged": "52",
+        "state": "Puducherry",
+        "total": "62"
+      },
+      "discharged": "1066",
+      "state": "Puducherry",
+      "total": "1894"
+    },
+    "Punjab": {
+      "active": "3092",
+      "deceased": "246",
+      "delta": {
+        "active": "262",
+        "deceased": "7",
+        "discharged": "81",
+        "state": "Punjab",
+        "total": "350"
+      },
+      "discharged": "6454",
+      "state": "Punjab",
+      "total": "9792"
+    },
+    "Rajasthan": {
+      "active": "6803",
+      "deceased": "553",
+      "delta": {
+        "active": "186",
+        "deceased": "7",
+        "discharged": "518",
+        "state": "Rajasthan",
+        "total": "711"
+      },
+      "discharged": "21144",
+      "state": "Rajasthan",
+      "total": "28500"
+    },
+    "Sikkim": {
+      "active": "185",
+      "deceased": "0",
+      "delta": {
+        "active": "9",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Sikkim",
+        "total": "9"
+      },
+      "discharged": "90",
+      "state": "Sikkim",
+      "total": "275"
+    },
+    "Tamil Nadu": {
+      "active": "49455",
+      "deceased": "2403",
+      "delta": {
+        "active": "1670",
+        "deceased": "88",
+        "discharged": "3049",
+        "state": "Tamil Nadu",
+        "total": "4807"
+      },
+      "discharged": "113856",
+      "state": "Tamil Nadu",
+      "total": "165714"
+    },
+    "Telangana": {
+      "active": "12764",
+      "deceased": "409",
+      "delta": {
+        "active": "-624",
+        "deceased": "6",
+        "discharged": "1902",
+        "state": "Telangana",
+        "total": "1284"
+      },
+      "discharged": "30607",
+      "state": "Telangana",
+      "total": "43780"
+    },
+    "Tripura": {
+      "active": "914",
+      "deceased": "5",
+      "delta": {
+        "active": "235",
+        "deceased": "2",
+        "discharged": "51",
+        "state": "Tripura",
+        "total": "288"
+      },
+      "discharged": "1735",
+      "state": "Tripura",
+      "total": "2654"
+    },
+    "Uttar Pradesh": {
+      "active": "17264",
+      "deceased": "1108",
+      "delta": {
+        "active": "819",
+        "deceased": "24",
+        "discharged": "1030",
+        "state": "Uttar Pradesh",
+        "total": "1873"
+      },
+      "discharged": "28664",
+      "state": "Uttar Pradesh",
+      "total": "47036"
+    },
+    "Uttarakhand": {
+      "active": "1143",
+      "deceased": "52",
+      "delta": {
+        "active": "113",
+        "deceased": "1",
+        "discharged": "60",
+        "state": "Uttarakhand",
+        "total": "174"
+      },
+      "discharged": "3081",
+      "state": "Uttarakhand",
+      "total": "4276"
+    },
+    "West Bengal": {
+      "active": "15594",
+      "deceased": "1076",
+      "delta": {
+        "active": "885",
+        "deceased": "27",
+        "discharged": "1286",
+        "state": "West Bengal",
+        "total": "2198"
+      },
+      "discharged": "23539",
+      "state": "West Bengal",
+      "total": "40209"
+    }
+  },
+  "7202020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>390459</strong>",
+      "deceased": "\n\t<strong>27497</strong>\n\t",
+      "delta": {
+        "active": "NaN",
+        "deceased": "NaN",
+        "discharged": "NaN",
+        "state": "<strong><span>Total#</span></strong>",
+        "total": "NaN"
+      },
+      "discharged": "\n\t<strong>700087</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1118043</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "58",
+      "deceased": "0",
+      "delta": {
+        "active": "5",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Andaman and Nicobar Islands",
+        "total": "5"
+      },
+      "discharged": "145",
+      "state": "Andaman and Nicobar Islands",
+      "total": "203"
+    },
+    "Andhra Pradesh": {
+      "active": "26118",
+      "deceased": "642",
+      "delta": {
+        "active": "3858",
+        "deceased": "56",
+        "discharged": "1127",
+        "state": "Andhra Pradesh",
+        "total": "5041"
+      },
+      "discharged": "22890",
+      "state": "Andhra Pradesh",
+      "total": "49650"
+    },
+    "Arunachal Pradesh": {
+      "active": "455",
+      "deceased": "3",
+      "delta": {
+        "active": "82",
+        "deceased": "0",
+        "discharged": "8",
+        "state": "Arunachal Pradesh",
+        "total": "90"
+      },
+      "discharged": "282",
+      "state": "Arunachal Pradesh",
+      "total": "740"
+    },
+    "Assam": {
+      "active": "7919",
+      "deceased": "57",
+      "delta": {
+        "active": "219",
+        "deceased": "4",
+        "discharged": "858",
+        "state": "Assam",
+        "total": "1081"
+      },
+      "discharged": "16023",
+      "state": "Assam",
+      "total": "23999"
+    },
+    "Bihar": {
+      "active": "10044",
+      "deceased": "217",
+      "delta": {
+        "active": "652",
+        "deceased": "9",
+        "discharged": "772",
+        "state": "Bihar",
+        "total": "1433"
+      },
+      "discharged": "16308",
+      "state": "Bihar",
+      "total": "26569"
+    },
+    "Chandigarh": {
+      "active": "217",
+      "deceased": "12",
+      "delta": {
+        "active": "14",
+        "deceased": "0",
+        "discharged": "3",
+        "state": "Chandigarh",
+        "total": "17"
+      },
+      "discharged": "488",
+      "state": "Chandigarh",
+      "total": "717"
+    },
+    "Chhattisgarh": {
+      "active": "1608",
+      "deceased": "24",
+      "delta": {
+        "active": "57",
+        "deceased": "0",
+        "discharged": "117",
+        "state": "Chhattisgarh",
+        "total": "174"
+      },
+      "discharged": "3775",
+      "state": "Chhattisgarh",
+      "total": "5407"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "189",
+      "deceased": "2",
+      "delta": {
+        "active": "3",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "total": "3"
+      },
+      "discharged": "414",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "605"
+    },
+    "Delhi": {
+      "active": "16031",
+      "deceased": "3628",
+      "delta": {
+        "active": "-680",
+        "deceased": "31",
+        "discharged": "1860",
+        "state": "Delhi",
+        "total": "1211"
+      },
+      "discharged": "103134",
+      "state": "Delhi",
+      "total": "122793"
+    },
+    "Goa": {
+      "active": "1417",
+      "deceased": "22",
+      "delta": {
+        "active": "-8",
+        "deceased": "1",
+        "discharged": "180",
+        "state": "Goa",
+        "total": "173"
+      },
+      "discharged": "2218",
+      "state": "Goa",
+      "total": "3657"
+    },
+    "Gujarat": {
+      "active": "11312",
+      "deceased": "2142",
+      "delta": {
+        "active": "79",
+        "deceased": "20",
+        "discharged": "866",
+        "state": "Gujarat",
+        "total": "965"
+      },
+      "discharged": "34901",
+      "state": "Gujarat",
+      "total": "48355"
+    },
+    "Haryana": {
+      "active": "6022",
+      "deceased": "349",
+      "delta": {
+        "active": "137",
+        "deceased": "5",
+        "discharged": "475",
+        "state": "Haryana",
+        "total": "617"
+      },
+      "discharged": "19793",
+      "state": "Haryana",
+      "total": "26164"
+    },
+    "Himachal Pradesh": {
+      "active": "413",
+      "deceased": "11",
+      "delta": {
+        "active": "3",
+        "deceased": "0",
+        "discharged": "23",
+        "state": "Himachal Pradesh",
+        "total": "26"
+      },
+      "discharged": "1059",
+      "state": "Himachal Pradesh",
+      "total": "1483"
+    },
+    "Jammu and Kashmir": {
+      "active": "5844",
+      "deceased": "244",
+      "delta": {
+        "active": "47",
+        "deceased": "8",
+        "discharged": "646",
+        "state": "Jammu and Kashmir",
+        "total": "701"
+      },
+      "discharged": "7811",
+      "state": "Jammu and Kashmir",
+      "total": "13899"
+    },
+    "Jharkhand": {
+      "active": "2770",
+      "deceased": "49",
+      "delta": {
+        "active": "85",
+        "deceased": "3",
+        "discharged": "105",
+        "state": "Jharkhand",
+        "total": "193"
+      },
+      "discharged": "2716",
+      "state": "Jharkhand",
+      "total": "5535"
+    },
+    "Karnataka": {
+      "active": "39376",
+      "deceased": "1331",
+      "delta": {
+        "active": "2739",
+        "deceased": "91",
+        "discharged": "1290",
+        "state": "Karnataka",
+        "total": "4120"
+      },
+      "discharged": "23065",
+      "state": "Karnataka",
+      "total": "63772"
+    },
+    "Kerala": {
+      "active": "7067",
+      "deceased": "42",
+      "delta": {
+        "active": "647",
+        "deceased": "2",
+        "discharged": "172",
+        "state": "Kerala",
+        "total": "821"
+      },
+      "discharged": "5371",
+      "state": "Kerala",
+      "total": "12480"
+    },
+    "Ladakh": {
+      "active": "173",
+      "deceased": "2",
+      "delta": {
+        "active": "0",
+        "deceased": "1",
+        "discharged": "18",
+        "state": "Ladakh",
+        "total": "19"
+      },
+      "discharged": "1003",
+      "state": "Ladakh",
+      "total": "1178"
+    },
+    "Madhya Pradesh": {
+      "active": "6568",
+      "deceased": "721",
+      "delta": {
+        "active": "375",
+        "deceased": "15",
+        "discharged": "447",
+        "state": "Madhya Pradesh",
+        "total": "837"
+      },
+      "discharged": "15311",
+      "state": "Madhya Pradesh",
+      "total": "22600"
+    },
+    "Maharashtra": {
+      "active": "129032",
+      "deceased": "11854",
+      "delta": {
+        "active": "5354",
+        "deceased": "258",
+        "discharged": "3906",
+        "state": "Maharashtra",
+        "total": "9518"
+      },
+      "discharged": "169569",
+      "state": "Maharashtra",
+      "total": "310455"
+    },
+    "Manipur": {
+      "active": "698",
+      "deceased": "0",
+      "delta": {
+        "active": "-11",
+        "deceased": "0",
+        "discharged": "31",
+        "state": "Manipur",
+        "total": "20"
+      },
+      "discharged": "1213",
+      "state": "Manipur",
+      "total": "1911"
+    },
+    "Meghalaya": {
+      "active": "382",
+      "deceased": "2",
+      "delta": {
+        "active": "32",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Meghalaya",
+        "total": "32"
+      },
+      "discharged": "66",
+      "state": "Meghalaya",
+      "total": "450"
+    },
+    "Mizoram": {
+      "active": "117",
+      "deceased": "0",
+      "delta": {
+        "active": "0",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Mizoram",
+        "total": "0"
+      },
+      "discharged": "167",
+      "state": "Mizoram",
+      "total": "284"
+    },
+    "Nagaland": {
+      "active": "543",
+      "deceased": "0",
+      "delta": {
+        "active": "-3",
+        "deceased": "0",
+        "discharged": "13",
+        "state": "Nagaland",
+        "total": "10"
+      },
+      "discharged": "445",
+      "state": "Nagaland",
+      "total": "988"
+    },
+    "Odisha": {
+      "active": "4893",
+      "deceased": "91",
+      "delta": {
+        "active": "215",
+        "deceased": "5",
+        "discharged": "516",
+        "state": "Odisha",
+        "total": "736"
+      },
+      "discharged": "12453",
+      "state": "Odisha",
+      "total": "17437"
+    },
+    "Puducherry": {
+      "active": "817",
+      "deceased": "28",
+      "delta": {
+        "active": "17",
+        "deceased": "0",
+        "discharged": "88",
+        "state": "Puducherry",
+        "total": "105"
+      },
+      "discharged": "1154",
+      "state": "Puducherry",
+      "total": "1999"
+    },
+    "Punjab": {
+      "active": "3311",
+      "deceased": "254",
+      "delta": {
+        "active": "219",
+        "deceased": "8",
+        "discharged": "81",
+        "state": "Punjab",
+        "total": "308"
+      },
+      "discharged": "6535",
+      "state": "Punjab",
+      "total": "10100"
+    },
+    "Rajasthan": {
+      "active": "7145",
+      "deceased": "559",
+      "delta": {
+        "active": "342",
+        "deceased": "6",
+        "discharged": "586",
+        "state": "Rajasthan",
+        "total": "934"
+      },
+      "discharged": "21730",
+      "state": "Rajasthan",
+      "total": "29434"
+    },
+    "Sikkim": {
+      "active": "191",
+      "deceased": "0",
+      "delta": {
+        "active": "6",
+        "deceased": "0",
+        "discharged": "2",
+        "state": "Sikkim",
+        "total": "8"
+      },
+      "discharged": "92",
+      "state": "Sikkim",
+      "total": "283"
+    },
+    "Tamil Nadu": {
+      "active": "50297",
+      "deceased": "2481",
+      "delta": {
+        "active": "842",
+        "deceased": "78",
+        "discharged": "4059",
+        "state": "Tamil Nadu",
+        "total": "4979"
+      },
+      "discharged": "117915",
+      "state": "Tamil Nadu",
+      "total": "170693"
+    },
+    "Telangana": {
+      "active": "12223",
+      "deceased": "415",
+      "delta": {
+        "active": "-541",
+        "deceased": "6",
+        "discharged": "1831",
+        "state": "Telangana",
+        "total": "1296"
+      },
+      "discharged": "32438",
+      "state": "Telangana",
+      "total": "45076"
+    },
+    "Tripura": {
+      "active": "1114",
+      "deceased": "5",
+      "delta": {
+        "active": "200",
+        "deceased": "0",
+        "discharged": "24",
+        "state": "Tripura",
+        "total": "224"
+      },
+      "discharged": "1759",
+      "state": "Tripura",
+      "total": "2878"
+    },
+    "Uttar Pradesh": {
+      "active": "18256",
+      "deceased": "1146",
+      "delta": {
+        "active": "992",
+        "deceased": "38",
+        "discharged": "1181",
+        "state": "Uttar Pradesh",
+        "total": "2211"
+      },
+      "discharged": "29845",
+      "state": "Uttar Pradesh",
+      "total": "49247"
+    },
+    "Uttarakhand": {
+      "active": "1347",
+      "deceased": "52",
+      "delta": {
+        "active": "204",
+        "deceased": "0",
+        "discharged": "35",
+        "state": "Uttarakhand",
+        "total": "239"
+      },
+      "discharged": "3116",
+      "state": "Uttarakhand",
+      "total": "4515"
+    },
+    "West Bengal": {
+      "active": "16492",
+      "deceased": "1112",
+      "delta": {
+        "active": "898",
+        "deceased": "36",
+        "discharged": "1344",
+        "state": "West Bengal",
+        "total": "2278"
+      },
+      "discharged": "24883",
+      "state": "West Bengal",
+      "total": "42487"
+    }
+  },
+  "7212020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>402529</strong>",
+      "deceased": "\n\t<strong>28084</strong>\n\t",
+      "delta": {
+        "active": "NaN",
+        "deceased": "NaN",
+        "discharged": "NaN",
+        "state": "<strong><span>Total#</span></strong>",
+        "total": "NaN"
+      },
+      "discharged": "\n\t<strong>724578</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1155191</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "55",
+      "deceased": "0",
+      "delta": {
+        "active": "-3",
+        "deceased": "0",
+        "discharged": "7",
+        "state": "Andaman and Nicobar Islands",
+        "total": "4"
+      },
+      "discharged": "152",
+      "state": "Andaman and Nicobar Islands",
+      "total": "207"
+    },
+    "Andhra Pradesh": {
+      "active": "28800",
+      "deceased": "696",
+      "delta": {
+        "active": "2682",
+        "deceased": "54",
+        "discharged": "1338",
+        "state": "Andhra Pradesh",
+        "total": "4074"
+      },
+      "discharged": "24228",
+      "state": "Andhra Pradesh",
+      "total": "53724"
+    },
+    "Arunachal Pradesh": {
+      "active": "502",
+      "deceased": "3",
+      "delta": {
+        "active": "47",
+        "deceased": "0",
+        "discharged": "3",
+        "state": "Arunachal Pradesh",
+        "total": "50"
+      },
+      "discharged": "285",
+      "state": "Arunachal Pradesh",
+      "total": "790"
+    },
+    "Assam": {
+      "active": "8229",
+      "deceased": "58",
+      "delta": {
+        "active": "310",
+        "deceased": "1",
+        "discharged": "1072",
+        "state": "Assam",
+        "total": "1383"
+      },
+      "discharged": "17095",
+      "state": "Assam",
+      "total": "25382"
+    },
+    "Bihar": {
+      "active": "9996",
+      "deceased": "217",
+      "delta": {
+        "active": "-48",
+        "deceased": "0",
+        "discharged": "1125",
+        "state": "Bihar",
+        "total": "1077"
+      },
+      "discharged": "17433",
+      "state": "Bihar",
+      "total": "27646"
+    },
+    "Chandigarh": {
+      "active": "207",
+      "deceased": "12",
+      "delta": {
+        "active": "-10",
+        "deceased": "0",
+        "discharged": "30",
+        "state": "Chandigarh",
+        "total": "20"
+      },
+      "discharged": "518",
+      "state": "Chandigarh",
+      "total": "737"
+    },
+    "Chhattisgarh": {
+      "active": "1592",
+      "deceased": "25",
+      "delta": {
+        "active": "-16",
+        "deceased": "1",
+        "discharged": "169",
+        "state": "Chhattisgarh",
+        "total": "154"
+      },
+      "discharged": "3944",
+      "state": "Chhattisgarh",
+      "total": "5561"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "234",
+      "deceased": "2",
+      "delta": {
+        "active": "45",
+        "deceased": "0",
+        "discharged": "34",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "total": "79"
+      },
+      "discharged": "448",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "684"
+    },
+    "Delhi": {
+      "active": "15166",
+      "deceased": "3663",
+      "delta": {
+        "active": "-865",
+        "deceased": "35",
+        "discharged": "1784",
+        "state": "Delhi",
+        "total": "954"
+      },
+      "discharged": "104918",
+      "state": "Delhi",
+      "total": "123747"
+    },
+    "Goa": {
+      "active": "1469",
+      "deceased": "23",
+      "delta": {
+        "active": "52",
+        "deceased": "1",
+        "discharged": "143",
+        "state": "Goa",
+        "total": "196"
+      },
+      "discharged": "2361",
+      "state": "Goa",
+      "total": "3853"
+    },
+    "Gujarat": {
+      "active": "11513",
+      "deceased": "2162",
+      "delta": {
+        "active": "201",
+        "deceased": "20",
+        "discharged": "777",
+        "state": "Gujarat",
+        "total": "998"
+      },
+      "discharged": "35678",
+      "state": "Gujarat",
+      "total": "49353"
+    },
+    "Haryana": {
+      "active": "6277",
+      "deceased": "355",
+      "delta": {
+        "active": "255",
+        "deceased": "6",
+        "discharged": "433",
+        "state": "Haryana",
+        "total": "694"
+      },
+      "discharged": "20226",
+      "state": "Haryana",
+      "total": "26858"
+    },
+    "Himachal Pradesh": {
+      "active": "553",
+      "deceased": "11",
+      "delta": {
+        "active": "140",
+        "deceased": "0",
+        "discharged": "8",
+        "state": "Himachal Pradesh",
+        "total": "148"
+      },
+      "discharged": "1067",
+      "state": "Himachal Pradesh",
+      "total": "1631"
+    },
+    "Jammu and Kashmir": {
+      "active": "6122",
+      "deceased": "254",
+      "delta": {
+        "active": "278",
+        "deceased": "10",
+        "discharged": "463",
+        "state": "Jammu and Kashmir",
+        "total": "751"
+      },
+      "discharged": "8274",
+      "state": "Jammu and Kashmir",
+      "total": "14650"
+    },
+    "Jharkhand": {
+      "active": "2893",
+      "deceased": "53",
+      "delta": {
+        "active": "123",
+        "deceased": "4",
+        "discharged": "94",
+        "state": "Jharkhand",
+        "total": "221"
+      },
+      "discharged": "2810",
+      "state": "Jharkhand",
+      "total": "5756"
+    },
+    "Karnataka": {
+      "active": "42222",
+      "deceased": "1403",
+      "delta": {
+        "active": "2846",
+        "deceased": "72",
+        "discharged": "730",
+        "state": "Karnataka",
+        "total": "3648"
+      },
+      "discharged": "23795",
+      "state": "Karnataka",
+      "total": "67420"
+    },
+    "Kerala": {
+      "active": "7615",
+      "deceased": "43",
+      "delta": {
+        "active": "548",
+        "deceased": "1",
+        "discharged": "245",
+        "state": "Kerala",
+        "total": "794"
+      },
+      "discharged": "5616",
+      "state": "Kerala",
+      "total": "13274"
+    },
+    "Ladakh": {
+      "active": "186",
+      "deceased": "2",
+      "delta": {
+        "active": "13",
+        "deceased": "0",
+        "discharged": "4",
+        "state": "Ladakh",
+        "total": "17"
+      },
+      "discharged": "1007",
+      "state": "Ladakh",
+      "total": "1195"
+    },
+    "Madhya Pradesh": {
+      "active": "6888",
+      "deceased": "738",
+      "delta": {
+        "active": "320",
+        "deceased": "17",
+        "discharged": "373",
+        "state": "Madhya Pradesh",
+        "total": "710"
+      },
+      "discharged": "15684",
+      "state": "Madhya Pradesh",
+      "total": "23310"
+    },
+    "Maharashtra": {
+      "active": "131636",
+      "deceased": "12030",
+      "delta": {
+        "active": "2604",
+        "deceased": "176",
+        "discharged": "5460",
+        "state": "Maharashtra",
+        "total": "8240"
+      },
+      "discharged": "175029",
+      "state": "Maharashtra",
+      "total": "318695"
+    },
+    "Manipur": {
+      "active": "618",
+      "deceased": "0",
+      "delta": {
+        "active": "-80",
+        "deceased": "0",
+        "discharged": "94",
+        "state": "Manipur",
+        "total": "14"
+      },
+      "discharged": "1307",
+      "state": "Manipur",
+      "total": "1925"
+    },
+    "Meghalaya": {
+      "active": "396",
+      "deceased": "4",
+      "delta": {
+        "active": "14",
+        "deceased": "2",
+        "discharged": "0",
+        "state": "Meghalaya",
+        "total": "16"
+      },
+      "discharged": "66",
+      "state": "Meghalaya",
+      "total": "466"
+    },
+    "Mizoram": {
+      "active": "129",
+      "deceased": "0",
+      "delta": {
+        "active": "12",
+        "deceased": "0",
+        "discharged": "1",
+        "state": "Mizoram",
+        "total": "13"
+      },
+      "discharged": "168",
+      "state": "Mizoram",
+      "total": "297"
+    },
+    "Nagaland": {
+      "active": "537",
+      "deceased": "0",
+      "delta": {
+        "active": "-6",
+        "deceased": "0",
+        "discharged": "39",
+        "state": "Nagaland",
+        "total": "33"
+      },
+      "discharged": "484",
+      "state": "Nagaland",
+      "total": "1021"
+    },
+    "Odisha": {
+      "active": "5103",
+      "deceased": "97",
+      "delta": {
+        "active": "210",
+        "deceased": "6",
+        "discharged": "457",
+        "state": "Odisha",
+        "total": "673"
+      },
+      "discharged": "12910",
+      "state": "Odisha",
+      "total": "18110"
+    },
+    "Puducherry": {
+      "active": "798",
+      "deceased": "29",
+      "delta": {
+        "active": "-19",
+        "deceased": "1",
+        "discharged": "111",
+        "state": "Puducherry",
+        "total": "93"
+      },
+      "discharged": "1265",
+      "state": "Puducherry",
+      "total": "2092"
+    },
+    "Punjab": {
+      "active": "3130",
+      "deceased": "262",
+      "delta": {
+        "active": "-181",
+        "deceased": "8",
+        "discharged": "583",
+        "state": "Punjab",
+        "total": "410"
+      },
+      "discharged": "7118",
+      "state": "Punjab",
+      "total": "10510"
+    },
+    "Rajasthan": {
+      "active": "7627",
+      "deceased": "568",
+      "delta": {
+        "active": "482",
+        "deceased": "9",
+        "discharged": "465",
+        "state": "Rajasthan",
+        "total": "956"
+      },
+      "discharged": "22195",
+      "state": "Rajasthan",
+      "total": "30390"
+    },
+    "Sikkim": {
+      "active": "213",
+      "deceased": "0",
+      "delta": {
+        "active": "22",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Sikkim",
+        "total": "22"
+      },
+      "discharged": "92",
+      "state": "Sikkim",
+      "total": "305"
+    },
+    "Tamil Nadu": {
+      "active": "51351",
+      "deceased": "2551",
+      "delta": {
+        "active": "1054",
+        "deceased": "70",
+        "discharged": "3861",
+        "state": "Tamil Nadu",
+        "total": "4985"
+      },
+      "discharged": "121776",
+      "state": "Tamil Nadu",
+      "total": "175678"
+    },
+    "Telangana": {
+      "active": "11529",
+      "deceased": "422",
+      "delta": {
+        "active": "-694",
+        "deceased": "7",
+        "discharged": "1885",
+        "state": "Telangana",
+        "total": "1198"
+      },
+      "discharged": "34323",
+      "state": "Telangana",
+      "total": "46274"
+    },
+    "Tripura": {
+      "active": "1227",
+      "deceased": "7",
+      "delta": {
+        "active": "113",
+        "deceased": "2",
+        "discharged": "86",
+        "state": "Tripura",
+        "total": "201"
+      },
+      "discharged": "1845",
+      "state": "Tripura",
+      "total": "3079"
+    },
+    "Uttar Pradesh": {
+      "active": "19137",
+      "deceased": "1192",
+      "delta": {
+        "active": "881",
+        "deceased": "46",
+        "discharged": "986",
+        "state": "Uttar Pradesh",
+        "total": "1913"
+      },
+      "discharged": "30831",
+      "state": "Uttar Pradesh",
+      "total": "51160"
+    },
+    "Uttarakhand": {
+      "active": "1375",
+      "deceased": "55",
+      "delta": {
+        "active": "28",
+        "deceased": "3",
+        "discharged": "96",
+        "state": "Uttarakhand",
+        "total": "127"
+      },
+      "discharged": "3212",
+      "state": "Uttarakhand",
+      "total": "4642"
+    },
+    "West Bengal": {
+      "active": "17204",
+      "deceased": "1147",
+      "delta": {
+        "active": "712",
+        "deceased": "35",
+        "discharged": "1535",
+        "state": "West Bengal",
+        "total": "2282"
+      },
+      "discharged": "26418",
+      "state": "West Bengal",
+      "total": "44769"
+    }
+  },
+  "7222020": {
+    "<strong><span>Total#</span></strong>": {
+      "active": "<strong>411133</strong>",
+      "deceased": "\n\t<strong>28732</strong>\n\t",
+      "delta": {
+        "active": "NaN",
+        "deceased": "NaN",
+        "discharged": "NaN",
+        "state": "<strong><span>Total#</span></strong>",
+        "total": "NaN"
+      },
+      "discharged": "\n\t<strong>753050</strong>\n\t",
+      "state": "<strong><span>Total#</span></strong>",
+      "total": "\n\t<strong>1192915</strong>\n\t"
+    },
+    "Andaman and Nicobar Islands": {
+      "active": "53",
+      "deceased": "0",
+      "delta": {
+        "active": "-2",
+        "deceased": "0",
+        "discharged": "7",
+        "state": "Andaman and Nicobar Islands",
+        "total": "5"
+      },
+      "discharged": "159",
+      "state": "Andaman and Nicobar Islands",
+      "total": "212"
+    },
+    "Andhra Pradesh": {
+      "active": "32336",
+      "deceased": "758",
+      "delta": {
+        "active": "3536",
+        "deceased": "62",
+        "discharged": "1346",
+        "state": "Andhra Pradesh",
+        "total": "4944"
+      },
+      "discharged": "25574",
+      "state": "Andhra Pradesh",
+      "total": "58668"
+    },
+    "Arunachal Pradesh": {
+      "active": "552",
+      "deceased": "3",
+      "delta": {
+        "active": "50",
+        "deceased": "0",
+        "discharged": "18",
+        "state": "Arunachal Pradesh",
+        "total": "68"
+      },
+      "discharged": "303",
+      "state": "Arunachal Pradesh",
+      "total": "858"
+    },
+    "Assam": {
+      "active": "7291",
+      "deceased": "58",
+      "delta": {
+        "active": "-938",
+        "deceased": "0",
+        "discharged": "938",
+        "state": "Assam",
+        "total": "0"
+      },
+      "discharged": "18033",
+      "state": "Assam",
+      "total": "25382"
+    },
+    "Bihar": {
+      "active": "10220",
+      "deceased": "217",
+      "delta": {
+        "active": "224",
+        "deceased": "0",
+        "discharged": "1082",
+        "state": "Bihar",
+        "total": "1306"
+      },
+      "discharged": "18515",
+      "state": "Bihar",
+      "total": "28952"
+    },
+    "Chandigarh": {
+      "active": "221",
+      "deceased": "12",
+      "delta": {
+        "active": "14",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Chandigarh",
+        "total": "14"
+      },
+      "discharged": "518",
+      "state": "Chandigarh",
+      "total": "751"
+    },
+    "Chhattisgarh": {
+      "active": "1586",
+      "deceased": "29",
+      "delta": {
+        "active": "-6",
+        "deceased": "4",
+        "discharged": "170",
+        "state": "Chhattisgarh",
+        "total": "168"
+      },
+      "discharged": "4114",
+      "state": "Chhattisgarh",
+      "total": "5729"
+    },
+    "Dadra and Nagar Haveli and Daman and Diu": {
+      "active": "240",
+      "deceased": "2",
+      "delta": {
+        "active": "6",
+        "deceased": "0",
+        "discharged": "15",
+        "state": "Dadra and Nagar Haveli and Daman and Diu",
+        "total": "21"
+      },
+      "discharged": "463",
+      "state": "Dadra and Nagar Haveli and Daman and Diu",
+      "total": "705"
+    },
+    "Delhi": {
+      "active": "15288",
+      "deceased": "3690",
+      "delta": {
+        "active": "122",
+        "deceased": "27",
+        "discharged": "1200",
+        "state": "Delhi",
+        "total": "1349"
+      },
+      "discharged": "106118",
+      "state": "Delhi",
+      "total": "125096"
+    },
+    "Goa": {
+      "active": "1552",
+      "deceased": "26",
+      "delta": {
+        "active": "83",
+        "deceased": "3",
+        "discharged": "88",
+        "state": "Goa",
+        "total": "174"
+      },
+      "discharged": "2449",
+      "state": "Goa",
+      "total": "4027"
+    },
+    "Gujarat": {
+      "active": "11760",
+      "deceased": "2196",
+      "delta": {
+        "active": "247",
+        "deceased": "34",
+        "discharged": "745",
+        "state": "Gujarat",
+        "total": "1026"
+      },
+      "discharged": "36423",
+      "state": "Gujarat",
+      "total": "50379"
+    },
+    "Haryana": {
+      "active": "6146",
+      "deceased": "364",
+      "delta": {
+        "active": "-131",
+        "deceased": "9",
+        "discharged": "726",
+        "state": "Haryana",
+        "total": "604"
+      },
+      "discharged": "20952",
+      "state": "Haryana",
+      "total": "27462"
+    },
+    "Himachal Pradesh": {
+      "active": "576",
+      "deceased": "11",
+      "delta": {
+        "active": "23",
+        "deceased": "0",
+        "discharged": "10",
+        "state": "Himachal Pradesh",
+        "total": "33"
+      },
+      "discharged": "1077",
+      "state": "Himachal Pradesh",
+      "total": "1664"
+    },
+    "Jammu and Kashmir": {
+      "active": "6540",
+      "deceased": "263",
+      "delta": {
+        "active": "418",
+        "deceased": "9",
+        "discharged": "181",
+        "state": "Jammu and Kashmir",
+        "total": "608"
+      },
+      "discharged": "8455",
+      "state": "Jammu and Kashmir",
+      "total": "15258"
+    },
+    "Jharkhand": {
+      "active": "3200",
+      "deceased": "55",
+      "delta": {
+        "active": "307",
+        "deceased": "2",
+        "discharged": "94",
+        "state": "Jharkhand",
+        "total": "403"
+      },
+      "discharged": "2904",
+      "state": "Jharkhand",
+      "total": "6159"
+    },
+    "Karnataka": {
+      "active": "44146",
+      "deceased": "1464",
+      "delta": {
+        "active": "1924",
+        "deceased": "61",
+        "discharged": "1664",
+        "state": "Karnataka",
+        "total": "3649"
+      },
+      "discharged": "25459",
+      "state": "Karnataka",
+      "total": "71069"
+    },
+    "Kerala": {
+      "active": "8060",
+      "deceased": "44",
+      "delta": {
+        "active": "445",
+        "deceased": "1",
+        "discharged": "274",
+        "state": "Kerala",
+        "total": "720"
+      },
+      "discharged": "5890",
+      "state": "Kerala",
+      "total": "13994"
+    },
+    "Ladakh": {
+      "active": "186",
+      "deceased": "2",
+      "delta": {
+        "active": "0",
+        "deceased": "0",
+        "discharged": "3",
+        "state": "Ladakh",
+        "total": "3"
+      },
+      "discharged": "1010",
+      "state": "Ladakh",
+      "total": "1198"
+    },
+    "Madhya Pradesh": {
+      "active": "7082",
+      "deceased": "756",
+      "delta": {
+        "active": "194",
+        "deceased": "18",
+        "discharged": "573",
+        "state": "Madhya Pradesh",
+        "total": "785"
+      },
+      "discharged": "16257",
+      "state": "Madhya Pradesh",
+      "total": "24095"
+    },
+    "Maharashtra": {
+      "active": "132538",
+      "deceased": "12276",
+      "delta": {
+        "active": "902",
+        "deceased": "246",
+        "discharged": "7188",
+        "state": "Maharashtra",
+        "total": "8336"
+      },
+      "discharged": "182217",
+      "state": "Maharashtra",
+      "total": "327031"
+    },
+    "Manipur": {
+      "active": "615",
+      "deceased": "0",
+      "delta": {
+        "active": "-3",
+        "deceased": "0",
+        "discharged": "93",
+        "state": "Manipur",
+        "total": "90"
+      },
+      "discharged": "1400",
+      "state": "Manipur",
+      "total": "2015"
+    },
+    "Meghalaya": {
+      "active": "416",
+      "deceased": "4",
+      "delta": {
+        "active": "20",
+        "deceased": "0",
+        "discharged": "4",
+        "state": "Meghalaya",
+        "total": "24"
+      },
+      "discharged": "70",
+      "state": "Meghalaya",
+      "total": "490"
+    },
+    "Mizoram": {
+      "active": "149",
+      "deceased": "0",
+      "delta": {
+        "active": "20",
+        "deceased": "0",
+        "discharged": "0",
+        "state": "Mizoram",
+        "total": "20"
+      },
+      "discharged": "168",
+      "state": "Mizoram",
+      "total": "317"
+    },
+    "Nagaland": {
+      "active": "545",
+      "deceased": "0",
+      "delta": {
+        "active": "8",
+        "deceased": "0",
+        "discharged": "1",
+        "state": "Nagaland",
+        "total": "9"
+      },
+      "discharged": "485",
+      "state": "Nagaland",
+      "total": "1030"
+    },
+    "Odisha": {
+      "active": "5344",
+      "deceased": "103",
+      "delta": {
+        "active": "241",
+        "deceased": "6",
+        "discharged": "400",
+        "state": "Odisha",
+        "total": "647"
+      },
+      "discharged": "13310",
+      "state": "Odisha",
+      "total": "18757"
+    },
+    "Puducherry": {
+      "active": "831",
+      "deceased": "30",
+      "delta": {
+        "active": "33",
+        "deceased": "1",
+        "discharged": "53",
+        "state": "Puducherry",
+        "total": "87"
+      },
+      "discharged": "1318",
+      "state": "Puducherry",
+      "total": "2179"
+    },
+    "Punjab": {
+      "active": "3237",
+      "deceased": "263",
+      "delta": {
+        "active": "107",
+        "deceased": "1",
+        "discharged": "271",
+        "state": "Punjab",
+        "total": "379"
+      },
+      "discharged": "7389",
+      "state": "Punjab",
+      "total": "10889"
+    },
+    "Rajasthan": {
+      "active": "8052",
+      "deceased": "577",
+      "delta": {
+        "active": "425",
+        "deceased": "9",
+        "discharged": "549",
+        "state": "Rajasthan",
+        "total": "983"
+      },
+      "discharged": "22744",
+      "state": "Rajasthan",
+      "total": "31373"
+    },
+    "Sikkim": {
+      "active": "222",
+      "deceased": "0",
+      "delta": {
+        "active": "9",
+        "deceased": "0",
+        "discharged": "16",
+        "state": "Sikkim",
+        "total": "25"
+      },
+      "discharged": "108",
+      "state": "Sikkim",
+      "total": "330"
+    },
+    "Tamil Nadu": {
+      "active": "51347",
+      "deceased": "2626",
+      "delta": {
+        "active": "-4",
+        "deceased": "75",
+        "discharged": "4894",
+        "state": "Tamil Nadu",
+        "total": "4965"
+      },
+      "discharged": "126670",
+      "state": "Tamil Nadu",
+      "total": "180643"
+    },
+    "Telangana": {
+      "active": "9891",
+      "deceased": "429",
+      "delta": {
+        "active": "-1638",
+        "deceased": "7",
+        "discharged": "3062",
+        "state": "Telangana",
+        "total": "1431"
+      },
+      "discharged": "37385",
+      "state": "Telangana",
+      "total": "47705"
+    },
+    "Tripura": {
+      "active": "1397",
+      "deceased": "8",
+      "delta": {
+        "active": "170",
+        "deceased": "1",
+        "discharged": "81",
+        "state": "Tripura",
+        "total": "252"
+      },
+      "discharged": "1926",
+      "state": "Tripura",
+      "total": "3331"
+    },
+    "Uttar Pradesh": {
+      "active": "20204",
+      "deceased": "1229",
+      "delta": {
+        "active": "1067",
+        "deceased": "37",
+        "discharged": "1024",
+        "state": "Uttar Pradesh",
+        "total": "2128"
+      },
+      "discharged": "31855",
+      "state": "Uttar Pradesh",
+      "total": "53288"
+    },
+    "Uttarakhand": {
+      "active": "1497",
+      "deceased": "55",
+      "delta": {
+        "active": "122",
+        "deceased": "0",
+        "discharged": "85",
+        "state": "Uttarakhand",
+        "total": "207"
+      },
+      "discharged": "3297",
+      "state": "Uttarakhand",
+      "total": "4849"
+    },
+    "West Bengal": {
+      "active": "17813",
+      "deceased": "1182",
+      "delta": {
+        "active": "609",
+        "deceased": "35",
+        "discharged": "1617",
+        "state": "West Bengal",
+        "total": "2261"
+      },
+      "discharged": "28035",
+      "state": "West Bengal",
+      "total": "47030"
+    }
+  }
+}

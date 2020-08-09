@@ -1,0 +1,37 @@
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * The content below * * * * * * * * * * * -->
+<!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
+<!-- * * * * * * * * * * and can be replaced. * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * Delete the template below * * * * * * * * * * -->
+<!-- * * * * * * * to get started with your project! * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<div class="data-view-toggle">
+  <mat-button-toggle-group name="fontStyle" aria-label="Font Style" [value]="dataViewToggleValue" (change)="onChangeDataViewToggle($event.value)">
+    <mat-button-toggle value="D">Delta</mat-button-toggle>
+    <mat-button-toggle value="C">Cumulative</mat-button-toggle>
+  </mat-button-toggle-group>
+  
+</div>
+<div class="data-view-toggle">
+  <mat-button-toggle-group name="fontStyle" aria-label="Font Style" [value]="dataPropToggleValue" (change)="onChangeDataPropToggle($event.value)">
+    <mat-button-toggle value="total">Total</mat-button-toggle>
+    <mat-button-toggle value="active">Active</mat-button-toggle>
+    <mat-button-toggle value="discharged">Discharged</mat-button-toggle>
+    <mat-button-toggle value="deceased">Deceased</mat-button-toggle>
+  </mat-button-toggle-group>
+</div>
+<div id="india" style="position: relative; width: 1000px; height: 800px;"></div>
+
+
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * The content above * * * * * * * * * * * -->
+<!-- * * * * * * * * * * is only a placeholder * * * * * * * * * * -->
+<!-- * * * * * * * * * * and can be replaced. * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+<!-- * * * * * * * * * * End of Placeholder * * * * * * * * * * * -->
+<!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * -->
+
+
+
+<router-outlet></router-outlet>
