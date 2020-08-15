@@ -136,7 +136,7 @@ export class AppComponent implements OnInit {
           const projection = d3.geo.mercator()
               .center([78.9629, 23.5937]) // always in [East Latitude, North Longitude]
               .scale(500)
-              .translate([(element.offsetWidth / 2) - 30, (element.offsetHeight / 2) - 30]);
+              .translate([(element.offsetWidth / 2) - 30, (element.offsetHeight / 2)]);
           const path = d3.geo.path().projection(projection);
           return { path, projection };
       }
