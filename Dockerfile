@@ -5,7 +5,7 @@ WORKDIR /app
 COPY package.json /app
 RUN npm install
 COPY . /app
-RUN npm run build --prod
+RUN npm run build --prod --base-href='/covidStats/'
 # Stage 2
 FROM nginx:1.17.1-alpine
 COPY --from=build-step /app/dist/covidStatsApp /usr/share/nginx/html

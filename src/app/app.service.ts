@@ -6,7 +6,7 @@ import { HttpClient } from '@angular/common/http';
 })
 export class AppService {
 
-  private url = 'http://165.22.223.243/covidApi/india';
+  private url = '../covidApi/india';
 private topoJsonUrl = 'https://rawgit.com/Anujarya300/bubble_maps/master/data/geography-data/india.topo.json';
   constructor(private http: HttpClient) {
   }
