@@ -21,6 +21,7 @@
     "@angular/platform-browser": "~10.0.9",
     "@angular/platform-browser-dynamic": "~10.0.9",
     "@angular/router": "~10.0.9",
+    "@angular/service-worker": "~10.0.9",
     "datamaps": "0.5.9",
     "jquery": "^3.5.1",
     "rxjs": "~6.6.2",
