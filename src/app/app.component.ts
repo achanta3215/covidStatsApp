@@ -1,9 +1,9 @@
 /// <reference types="datamaps" />
 declare class Datamap { constructor(options: DataMapOptions); }
-import { Component, OnInit, Input, Output, EventEmitter } from '@angular/core';
+import { Component, OnInit } from '@angular/core';
 import { AppService } from './app.service';
 import { states } from '../utils/constants';
-import { MatButtonToggleChange } from '@angular/material/button-toggle';
+
 interface StateProps {
   state: string;
   active: string;
@@ -19,7 +19,7 @@ interface Data {
   [stateName: string]: StateData; 
 }
 
-type DataViewToggleValue = 'D' | 'C'; 
+type DataViewToggleValue = 'D' | 'C' | 'A';
 
 const getDefaultNumeric = (val: any, defaultVal?: string): string => {
   return isNaN(val) ? (defaultVal || '0') : val;
@@ -29,7 +29,7 @@ const getStatePropValue = (
   stateProp: keyof StateProps,
   dataViewToggleValue: DataViewToggleValue, 
 ): string => {
-  if (dataViewToggleValue === 'C') {
+  if (dataViewToggleValue === 'C' || dataViewToggleValue === 'A') {
     return getDefaultNumeric(state[stateProp]);
   }
   return getDefaultNumeric(state.delta && state.delta[stateProp]);
@@ -56,7 +56,7 @@ const getBubbles = (
     const statePropValue = getStatePropValue(state, stateProp, dataViewToggleValue);
 
     const factor = 100;
-    const radius = getDefaultNumeric((Number(statePropValue) / Number(averageValue)) * factor, '1');
+    const radius = getDefaultNumeric((Number(statePropValue) / Number(averageValue)) * factor, '1') + 5;
     return {
       centered: states[state.state],
       state: state.state,
@@ -73,7 +73,7 @@ const getBubbles = (
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent implements OnInit {
-  dataViewToggleValue: DataViewToggleValue ='C';
+  dataViewToggleValue: DataViewToggleValue ='A';
   dataPropToggleValue: keyof StateProps ='total';
   onChangeDataViewToggle(val: DataViewToggleValue) {
     this.dataViewToggleValue = val;
@@ -89,7 +89,8 @@ export class AppComponent implements OnInit {
   refreshData() {
     this.bubbleMap.options.data = {
     };
-    const ourBubbles = getBubbles(this.data, this.dataViewToggleValue, this.dataPropToggleValue);
+    const stateDataProp = this.dataViewToggleValue === 'A' ? 'active' : this.dataPropToggleValue;
+    const ourBubbles = getBubbles(this.data, this.dataViewToggleValue, stateDataProp);
     // ISO ID code for city or <state></state>
     setTimeout(() => { // only start drawing bubbles on the map when map has rendered completely.
       // @ts-ignore
