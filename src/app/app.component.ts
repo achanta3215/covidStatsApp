@@ -104,8 +104,17 @@ export class AppComponent implements OnInit {
   }
 
   constructor(appService: AppService) {
-    appService.fetchTodayStats().subscribe((stats: any) => {
-      this.data = stats;
+    appService.fetchTodayStats().subscribe((stats: { [stateName: string]: StateData }) => {
+      this.data = Object.entries(stats)
+        .reduce((acc, stat) => {
+          if (stat[1] && stat[1].state === "Telengana") {
+            return {
+              ...acc,
+              [stat[0]]: { ...stat[1], state: "Telangana", centered: "TS" },
+            };
+          }
+          return { ...acc, [stat[0]]: stat[1] };
+        }, {});
       console.log(stats);
       this.refreshData();
     });
