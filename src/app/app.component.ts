@@ -88,8 +88,6 @@ export class AppComponent implements OnInit {
   bubbleMap: any;
   refreshData() {
     this.bubbleMap.options.data = {
-      JH: { fillKey: 'MAJOR' },
-      MH: { fillKey: 'MAJOR' },
     };
     const ourBubbles = getBubbles(this.data, this.dataViewToggleValue, this.dataPropToggleValue);
     // ISO ID code for city or <state></state>
@@ -110,7 +108,13 @@ export class AppComponent implements OnInit {
           if (stat[1] && stat[1].state === "Telengana") {
             return {
               ...acc,
-              [stat[0]]: { ...stat[1], state: "Telangana", centered: "TS" },
+              [stat[0]]: {
+                ...stat[1],
+                state: "Telangana",
+                delta: stat[1].delta
+                  ? { ...stat[1].delta, state: "Telangana" }
+                  : undefined,
+              },
             };
           }
           return { ...acc, [stat[0]]: stat[1] };
